@@ -1,0 +1,101 @@
+
+(char (\S*)\[255\] = \{0\};)
+
+#if defined(NOT_EMBEDDED)
+	$1
+#else
+	void *$2;
+	int $2Len = 0;
+#endif
+
+#if defined(NOT_EMBEDDED)
+	uint8_t referenceData_uint8_t[MAX_SIZE] = {0};
+	uint16_t referenceData_uint16_t[MAX_SIZE] = {0};
+	uint32_t referenceData_uint32_t[MAX_SIZE] = {0};
+	uint64_t referenceData_uint64_t[MAX_SIZE] = {0};
+	q7 referenceData_q7[MAX_SIZE] = {0};
+	q15 referenceData_q15[MAX_SIZE] = {0};
+	q31 referenceData_q31[MAX_SIZE] = {0};
+	q63 referenceData_q63[MAX_SIZE] = {0};
+	f32 referenceData_f32[MAX_SIZE] = {0};
+	f64 referenceData_f64[MAX_SIZE] = {0};
+#endif
+
+$1
+
+
+(snprintf\((\S*), \S*, \S*, \S*, (\S*), "(\S*).txt"\);)
+
+#if defined(NOT_EMBEDDED)
+	$1
+#else
+	$2 = $3_$4;
+	$2Len = sizeof($3_$4);
+#endif
+
+
+((load_data_(\S*))\((\S*), (\S*), (\S*)\);)
+
+
+#if defined(NOT_EMBEDDED)
+	$1
+#else
+	$5 = $4Len;
+	$2($4, $5, $6);
+	$5Len = $5/sizeof($3);
+#endif
+
+
+(referenceFileLen = sizeof\(\S*_(\S*)\);)
+
+$1
+	load_data_$2(referenceFile, referenceFileLen, referenceData_$2);
+
+// =====
+
+
+
+(snr_check_(\S\d*)\((\S*), (\S*), (\S*), (\S*)\);)
+
+#if defined(NOT_EMBEDDED)
+\t$1
+#else
+\tsnr_check_special_$2(referenceData_$2, $4, $5, $6);
+#endif
+
+
+
+((\S*_check_\S*)\((\S*), (\S*), (\S{3,}), (\S*)\);)
+
+
+#if defined(NOT_EMBEDDED)
+	$1
+#else
+	$2($3, $4, $3Len, $6);
+#endif
+
+
+
+	((eq_check_\S*)\((\S*), (\S*), (\S{3,})\);)
+
+
+
+
+{3,}
+
+
+
+
+
+(((\S*)_check_(\S*))\((\S*), (\S*), (\S{3,}), (\S*)\);)
+(((\S*)_check_(\S*))\((\S*), (\S*), (\S), (\S*)\);)
+
+
+#if defined(NOT_EMBEDDED)
+\t$1
+#else
+\tload_data_$4($5, referenceFileLen, referenceData_$4);
+\t$3_check_special_$4(referenceData_$4, $6, $7);
+#endif
+
+

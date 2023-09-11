@@ -1,0 +1,8376 @@
+== mips_add_f32 test ==  
+mips_add_f32 finish 
+mips_add_f32 checking 
+
+relError count = 0, REL Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_add_f32 check done  == 
+
+== mips_sub_f32 test ==  
+mips_sub_f32 finish 
+mips_sub_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_sub_f32 check done  == 
+
+== mips_mult_f32 test ==  
+mips_mult_f32 finish 
+mips_mult_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_mult_f32 check done  == 
+
+== mips_negate_f32 test ==  
+mips_negate_f32 finish 
+mips_negate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_negate_f32 check done  == 
+
+== mips_offset_f32 test ==  
+mips_offset_f32 finish 
+mips_offset_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_offset_f32 check done  == 
+
+== mips_scale_f32 test ==  
+mips_scale_f32 finish 
+mips_scale_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_scale_f32 check done  == 
+
+== mips_dot_prod_f32 3 test ==  
+mips_dot_prod_f32 3 finish 
+mips_dot_prod_f32 3 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_dot_prod_f32 3 check done  == 
+
+== mips_dot_prod_f32 4N test ==  
+mips_dot_prod_f32 4N finish 
+mips_dot_prod_f32 4N checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_dot_prod_f32 4N check done  == 
+
+== mips_dot_prod_f32 4N+1 test ==  
+mips_dot_prod_f32 4N+1 finish 
+mips_dot_prod_f32 4N+1 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_dot_prod_f32 4N+1 check done  == 
+
+== mips_dot_prod_f32 long test ==  
+mips_dot_prod_f32 4N+1 finish 
+mips_dot_prod_f32 4N+1 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_dot_prod_f32 4N+1 check done  == 
+
+== mips_abs_f32 test ==  
+mips_abs_f32 finish 
+mips_abs_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_abs_f32 check done  == 
+
+== mips_clip_f32 test ==  
+mips_clip_f32 finish 
+mips_clip_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_clip_f32 check done  == 
+
+== mips_clip_f32 test ==  
+mips_clip_f32 finish 
+mips_clip_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_clip_f32 check done  == 
+
+== mips_clip_f32 test ==  
+mips_clip_f32 finish 
+mips_clip_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_clip_f32 check done  == 
+
+== mips_add_f64 test ==  
+mips_add_f64 finish 
+mips_add_f64 checking 
+
+relError count = 0, REL Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_add_f64 check done  == 
+
+== mips_sub_f64 test ==  
+mips_sub_f64 finish 
+mips_sub_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_sub_f64 check done  == 
+
+== mips_mult_f64 test ==  
+mips_mult_f64 finish 
+mips_mult_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_mult_f64 check done  == 
+
+== mips_negate_f64 test ==  
+mips_negate_f64 finish 
+mips_negate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_negate_f64 check done  == 
+
+== mips_offset_f64 test ==  
+mips_offset_f64 finish 
+mips_offset_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_offset_f64 check done  == 
+
+== mips_scale_f64 test ==  
+mips_scale_f64 finish 
+mips_scale_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_scale_f64 check done  == 
+
+== mips_dot_prod_f64 2 test ==  
+mips_dot_prod_f64 2 finish 
+mips_dot_prod_f64 2 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_dot_prod_f64 2 check done  == 
+
+== mips_dot_prod_f64 4N test ==  
+mips_dot_prod_f64 4N finish 
+mips_dot_prod_f64 4N checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_dot_prod_f64 4N check done  == 
+
+== mips_dot_prod_f64 4N+1 test ==  
+mips_dot_prod_f64 4N+1 finish 
+mips_dot_prod_f64 4N+1 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_dot_prod_f64 4N+1 check done  == 
+
+== mips_dot_prod_f64 long test ==  
+mips_dot_prod_f64 4N+1 finish 
+mips_dot_prod_f64 4N+1 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_dot_prod_f64 4N+1 check done  == 
+
+== mips_abs_f64 test ==  
+mips_abs_f64 finish 
+mips_abs_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_abs_f64 check done  == 
+
+== mips_add_q15 test ==  
+mips_add_q15 finish 
+mips_add_q15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_add_q15 check done  == 
+
+== mips_sub_q15 test ==  
+mips_sub_q15 finish 
+mips_sub_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_sub_q15 check done  == 
+
+== mips_mult_q15 test ==  
+mips_mult_q15 finish 
+mips_mult_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mult_q15 check done  == 
+
+== mips_negate_q15 test ==  
+mips_negate_q15 finish 
+mips_negate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_negate_q15 check done  == 
+
+== mips_offset_q15 test ==  
+mips_offset_q15 finish 
+mips_offset_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_offset_q15 check done  == 
+
+== mips_offset_q15 test ==  
+mips_offset_q15 finish 
+mips_offset_q15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_offset_q15 check done  == 
+
+== mips_offset_q15 test ==  
+mips_offset_q15 finish 
+mips_offset_q15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_offset_q15 check done  == 
+
+== mips_scale_q15 test ==  
+mips_scale_q15 finish 
+mips_scale_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_scale_q15 check done  == 
+
+== mips_scale_q15 test ==  
+mips_scale_q15 finish 
+mips_scale_q15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_scale_q15 check done  == 
+
+== mips_dot_prod_q15 3 test ==  
+mips_dot_prod_q15 3 finish 
+mips_dot_prod_q15 3 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_dot_prod_q15 3 check done  == 
+
+== mips_dot_prod_q15 4N test ==  
+mips_dot_prod_q15 4N finish 
+mips_dot_prod_q15 4N checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_dot_prod_q15 4N check done  == 
+
+== mips_dot_prod_q15 4N+1 test ==  
+mips_dot_prod_q15 4N+1 finish 
+mips_dot_prod_q15 4N+1 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_dot_prod_q15 4N+1 check done  == 
+
+== mips_dot_prod_q15 long test ==  
+mips_dot_prod_q15 4N+1 finish 
+mips_dot_prod_q15 4N+1 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_dot_prod_q15 4N+1 check done  == 
+
+== mips_abs_q15 test ==  
+mips_abs_q15 finish 
+mips_abs_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_abs_q15 check done  == 
+
+== mips_shift_q15 test ==  
+mips_shift_q15 finish 
+mips_shift_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_shift_q15 check done  == 
+
+== mips_shift_q15 test ==  
+mips_shift_q15 finish 
+mips_shift_q15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_shift_q15 check done  == 
+
+== mips_shift_q15 test ==  
+mips_shift_q15 finish 
+mips_shift_q15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_shift_q15 check done  == 
+
+== mips_and_u16 3 test ==  
+mips_and_u16 3 finish 
+mips_and_u16 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u16 3 check done  == 
+
+== mips_and_u16 4N test ==  
+mips_and_u16 4N finish 
+mips_and_u16 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u16 4N check done  == 
+
+== mips_and_u16 4N+1 test ==  
+mips_and_u16 4N+1 finish 
+mips_and_u16 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u16 4N+1 check done  == 
+
+== mips_or_u16 3 test ==  
+mips_or_u16 3 finish 
+mips_or_u16 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u16 3 check done  == 
+
+== mips_or_u16 4N test ==  
+mips_or_u16 4N finish 
+mips_or_u16 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u16 4N check done  == 
+
+== mips_or_u16 4N+1 test ==  
+mips_or_u16 4N+1 finish 
+mips_or_u16 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u16 4N+1 check done  == 
+
+== mips_not_u16 3 test ==  
+v finish 
+mips_not_u16 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u16 3 check done  == 
+
+== mips_not_u16 4N test ==  
+v finish 
+mips_not_u16 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u16 4N check done  == 
+
+== mips_not_u16 4N+1 test ==  
+v finish 
+mips_not_u16 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u16 4N+1 check done  == 
+
+== mips_xor_u16 3 test ==  
+mips_xor_u16 3 finish 
+mips_xor_u16 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u16 3 check done  == 
+
+== mips_xor_u16 4N test ==  
+mips_xor_u16 4N finish 
+mips_xor_u16 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u16 4N check done  == 
+
+== mips_xor_u16 4N+1 test ==  
+mips_xor_u16 4N+1 finish 
+mips_xor_u16 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u16 4N+1 check done  == 
+
+== mips_clip_q15 test ==  
+mips_clip_q15 finish 
+mips_clip_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_clip_q15 check done  == 
+
+== mips_clip_q15 test ==  
+mips_clip_q15 finish 
+mips_clip_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_clip_q15 check done  == 
+
+== mips_clip_q15 test ==  
+mips_clip_q15 finish 
+mips_clip_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_clip_q15 check done  == 
+
+== mips_add_q31 test ==  
+mips_add_q31 finish 
+mips_add_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_add_q31 check done  == 
+
+== mips_sub_q31 test ==  
+mips_sub_q31 finish 
+mips_sub_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_sub_q31 check done  == 
+
+== mips_mult_q31 test ==  
+mips_mult_q31 finish 
+mips_mult_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mult_q31 check done  == 
+
+== mips_negate_q31 test ==  
+mips_negate_q31 finish 
+mips_negate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_negate_q31 check done  == 
+
+== mips_offset_q31 test ==  
+mips_offset_q31 finish 
+mips_offset_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_offset_q31 check done  == 
+
+== mips_offset_q31 test ==  
+mips_offset_q31 finish 
+mips_offset_q31 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_offset_q31 check done  == 
+
+== mips_offset_q31 test ==  
+mips_offset_q31 finish 
+mips_offset_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_offset_q31 check done  == 
+
+== mips_scale_q31 test ==  
+mips_scale_q31 finish 
+mips_scale_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_scale_q31 check done  == 
+
+== mips_scale_q31 test ==  
+mips_scale_q31 finish 
+mips_scale_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_scale_q31 check done  == 
+
+== mips_dot_prod_q31 3 test ==  
+mips_dot_prod_q31 3 finish 
+mips_dot_prod_q31 3 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_dot_prod_q31 3 check done  == 
+
+== mips_dot_prod_q31 4N test ==  
+mips_dot_prod_q31 4N finish 
+mips_dot_prod_q31 4N checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_dot_prod_q31 4N check done  == 
+
+== mips_dot_prod_q31 4N+1 test ==  
+mips_dot_prod_q31 4N+1 finish 
+mips_dot_prod_q31 4N+1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_dot_prod_q31 4N+1 check done  == 
+
+== mips_dot_prod_q31 long test ==  
+mips_dot_prod_q31 long finish 
+mips_dot_prod_q31 long checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_dot_prod_q31 long check done  == 
+
+== mips_clip_q31 test ==  
+mips_clip_q31 finish 
+mips_clip_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_clip_q31 check done  == 
+
+== mips_clip_q31 test ==  
+mips_clip_q31 finish 
+mips_clip_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_clip_q31 check done  == 
+
+== mips_clip_q31 test ==  
+mips_clip_q31 finish 
+mips_clip_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_clip_q31 check done  == 
+
+== mips_shift_q31 test ==  
+mips_shift_q31 finish 
+mips_shift_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_shift_q31 check done  == 
+
+== mips_shift_q31 test ==  
+mips_shift_q31 finish 
+mips_shift_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_shift_q31 check done  == 
+
+== mips_shift_q31 test ==  
+mips_shift_q31 finish 
+mips_shift_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_shift_q31 check done  == 
+
+== mips_and_u32 3test ==  
+mips_and_u32 3finish 
+mips_and_u32 3checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u32 3check done  == 
+
+== mips_and_u32 8test ==  
+mips_and_u32 8finish 
+mips_and_u32 8checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u32 8check done  == 
+
+== mips_and_u32 11test ==  
+mips_and_u32 11finish 
+mips_and_u32 11checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u32 11check done  == 
+
+== mips_or_u32 3test ==  
+mips_or_u32 3finish 
+mips_or_u32 3checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u32 3check done  == 
+
+== mips_or_u32 8test ==  
+mips_or_u32 8finish 
+mips_or_u32 8checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u32 8check done  == 
+
+== mips_or_u32 11test ==  
+mips_or_u32 11finish 
+mips_or_u32 11checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u32 11check done  == 
+
+== mips_not_u32 3test ==  
+mips_not_u32 3finish 
+mips_not_u32 3checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u32 3check done  == 
+
+== mips_not_u32 8test ==  
+mips_not_u32 8finish 
+mips_not_u32 8checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u32 8check done  == 
+
+== mips_not_u32 11test ==  
+mips_not_u32 11finish 
+mips_not_u32 11checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u32 11check done  == 
+
+== mips_xor_u32 3test ==  
+mips_xor_u32 3finish 
+mips_xor_u32 3checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u32 3check done  == 
+
+== mips_xor_u32 8test ==  
+mips_xor_u32 8finish 
+mips_xor_u32 8checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u32 8check done  == 
+
+== mips_xor_u32 11test ==  
+mips_xor_u32 11finish 
+mips_xor_u32 11checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u32 11check done  == 
+
+== mips_add_q7 test ==  
+mips_add_q7 finish 
+mips_add_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_add_q7 check done  == 
+
+== mips_sub_q7 test ==  
+mips_sub_q7 finish 
+mips_sub_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_sub_q7 check done  == 
+
+== mips_mult_q7 test ==  
+mips_mult_q7 finish 
+mips_mult_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_mult_q7 check done  == 
+
+== mips_negate_q7 test ==  
+mips_negate_q7 finish 
+mips_negate_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_negate_q7 check done  == 
+
+== mips_offset_q7 test ==  
+mips_offset_q7 finish 
+mips_offset_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_offset_q7 check done  == 
+
+== mips_offset_q7 test ==  
+mips_offset_q7 finish 
+mips_offset_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_offset_q7 check done  == 
+
+== mips_offset_q7 test ==  
+mips_offset_q7 finish 
+mips_offset_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_offset_q7 check done  == 
+
+== mips_scale_q7 test ==  
+mips_scale_q7 finish 
+mips_scale_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_scale_q7 check done  == 
+
+== mips_scale_q7 test ==  
+mips_scale_q7 finish 
+mips_scale_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_scale_q7 check done  == 
+
+== mips_dot_prod_q7 15 test ==  
+mips_dot_prod_q7 15 finish 
+mips_dot_prod_q7 15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_dot_prod_q7 15 check done  == 
+
+== mips_dot_prod_q7 4N test ==  
+mips_dot_prod_q7 4N finish 
+mips_dot_prod_q7 4N checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_dot_prod_q7 4N check done  == 
+
+== mips_dot_prod_q7 4N+1 test ==  
+mips_dot_prod_q7 4N+1 finish 
+mips_dot_prod_q7 4N+1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_dot_prod_q7 4N+1 check done  == 
+
+== mips_dot_prod_q7 long test ==  
+mips_dot_prod_q7 long finish 
+mips_dot_prod_q7 long checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_dot_prod_q7 long check done  == 
+
+== mips_abs_q7 test ==  
+mips_abs_q7 finish 
+mips_abs_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_abs_q7 check done  == 
+
+== mips_shift_q7 test ==  
+mips_shift_q7 finish 
+mips_shift_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_shift_q7 check done  == 
+
+== mips_shift_q7 test ==  
+mips_shift_q7 finish 
+mips_shift_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_shift_q7 check done  == 
+
+== mips_shift_q7 test ==  
+mips_shift_q7 finish 
+mips_shift_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_shift_q7 check done  == 
+
+== mips_clip_q7 test ==  
+mips_clip_q7 finish 
+mips_clip_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_clip_q7 check done  == 
+
+== mips_clip_q7 test ==  
+mips_clip_q7 finish 
+mips_clip_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_clip_q7 check done  == 
+
+== mips_clip_q7 test ==  
+mips_clip_q7 finish 
+mips_clip_q7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_clip_q7 check done  == 
+
+== mips_and_u8 3 test ==  
+mips_and_u8 3 finish 
+mips_and_u8 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u8 3 check done  == 
+
+== mips_and_u8 4N test ==  
+mips_and_u8 4N finish 
+mips_and_u8 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u8 4N check done  == 
+
+== mips_and_u8 4N+1 test ==  
+mips_and_u8 4N+1 finish 
+mips_and_u8 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_and_u8 4N+1 check done  == 
+
+== mips_or_u8 3 test ==  
+mips_or_u8 3 finish 
+mips_or_u8 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u8 3 check done  == 
+
+== mips_or_u8 4N test ==  
+mips_or_u8 4N finish 
+mips_or_u8 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u8 4N check done  == 
+
+== mips_or_u8 4N+1 test ==  
+mips_or_u8 4N+1 finish 
+mips_or_u8 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_or_u8 4N+1 check done  == 
+
+== mips_not_u8 3 test ==  
+mips_not_u8 3 finish 
+mips_not_u8 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u8 3 check done  == 
+
+== mips_not_u8 4N test ==  
+mips_not_u8 4N finish 
+mips_not_u8 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u8 4N check done  == 
+
+== mips_not_u8 4N+1 test ==  
+mips_not_u8 4N+1 finish 
+mips_not_u8 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_not_u8 4N+1 check done  == 
+
+== mips_xor_u8 3 test ==  
+mips_xor_u8 3 finish 
+mips_xor_u8 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u8 3 check done  == 
+
+== mips_xor_u8 4N test ==  
+mips_xor_u8 4N finish 
+mips_xor_u8 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u8 4N check done  == 
+
+== mips_xor_u8 4N+1 test ==  
+mips_xor_u8 4N+1 finish 
+mips_xor_u8 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_xor_u8 4N+1 check done  == 
+
+== mips_gaussian_naive_bayes_predict_f32 test ==  
+mips_gaussian_naive_bayes_predict_f32 finish 
+mips_gaussian_naive_bayes_predict_f32 checking 
+
+relError count = 0, REL Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_gaussian_naive_bayes_predict_f32 check done  == 
+
+== mips_mat_mult_f32 test ==  
+mips_mat_mult_f32 finish 
+mips_mat_mult_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_mult_f32 check done  == 
+
+== mips_mat_cmplx_mult_f32 test ==  
+mips_mat_cmplx_mult_f32 finish 
+mips_mat_cmplx_mult_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_cmplx_mult_f32 check done  == 
+
+== mips_mat_mult_f64 test ==  
+mips_mat_mult_f64 finish 
+mips_mat_mult_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_mult_f64 check done  == 
+
+== mips_mat_mult_q15 test ==  
+mips_mat_mult_q15 finish 
+mips_mat_mult_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_mult_q15 check done  == 
+
+== mips_mat_cmplx_mult_q15 test ==  
+mips_mat_cmplx_mult_q15 finish 
+mips_mat_cmplx_mult_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_cmplx_mult_q15 check done  == 
+
+== mips_mat_mult_q31 test ==  
+mips_mat_mult_q31 finish 
+mips_mat_mult_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_mult_q31 check done  == 
+
+== mips_mat_cmplx_mult_q31 test ==  
+mips_mat_cmplx_mult_q31 finish 
+mips_mat_cmplx_mult_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_cmplx_mult_q31 check done  == 
+
+== mips_mat_mult_opt_q31 test ==  
+mips_mat_mult_opt_q31 finish 
+mips_mat_mult_opt_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_mult_opt_q31 check done  == 
+
+== mips_mat_mult_q7 test ==  
+mips_mat_mult_q7 finish 
+mips_mat_mult_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+invalid value SN = 0, details : diff 11 > 5 (0xFFFFFFF5,0x00) 
+nearError count = 1, Please check your data or function 
+
+== mips_mat_mult_q7 check done  == 
+
+== biquad_cascade_df1_ref test ==  
+biquad_cascade_df1_ref finish 
+biquad_cascade_df1_ref checking 
+
+relError count = 0, REL Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== biquad_cascade_df1_ref check done  == 
+
+== _biquad_cascade_df2T_ref test ==  
+_biquad_cascade_df2T_ref finish 
+_biquad_cascade_df2T_ref checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== _biquad_cascade_df2T_ref check done  == 
+
+== biquad_cascade_df1_rand test ==  
+biquad_cascade_df1_rand finish 
+biquad_cascade_df1_rand checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== biquad_cascade_df1_rand check done  == 
+
+== biquad_cascade_df2T_rand test ==  
+biquad_cascade_df2T_rand finish 
+biquad_cascade_df2T_rand checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== biquad_cascade_df2T_rand check done  == 
+
+== biquad_cascade_stereo_df2T_rand test ==  
+biquad_cascade_stereo_df2T_rand finish 
+biquad_cascade_stereo_df2T_rand checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== biquad_cascade_stereo_df2T_rand check done  == 
+
+== biquad_cascade_df2T_ref test ==  
+biquad_cascade_df2T_ref finish 
+biquad_cascade_df2T_ref checking 
+
+relError count = 0, REL Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== biquad_cascade_df2T_ref check done  == 
+
+== biquad_cascade_df2T_rand test ==  
+biquad_cascade_df2T_rand finish 
+biquad_cascade_df2T_rand checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== biquad_cascade_df2T_rand check done  == 
+
+== biquad_cascade_df1 test ==  
+biquad_cascade_df1 finish 
+biquad_cascade_df1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== biquad_cascade_df1 check done  == 
+
+== biquad_cascade_df1 test ==  
+biquad_cascade_df1 finish 
+biquad_cascade_df1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== biquad_cascade_df1 check done  == 
+
+== biquad_cascade_df1_32x64 test ==  
+biquad_cascade_df1_32x64 finish 
+biquad_cascade_df1_32x64 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== biquad_cascade_df1_32x64 check done  == 
+
+== mips_cmplx_conj_f32 test 3 ==  
+mips_cmplx_conj_f32 finish 
+mips_cmplx_conj_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_conj_f32 3 check done  == 
+
+== mips_cmplx_conj_f32 test 4N ==  
+mips_cmplx_conj_f32 finish 
+mips_cmplx_conj_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_conj_f32 4N check done  == 
+
+== mips_cmplx_conj_f32 test 4N+1 ==  
+mips_cmplx_conj_f32 finish 
+mips_cmplx_conj_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_conj_f32 4N+1 check done  == 
+
+== mips_cmplx_conj_f32 long ==  
+mips_cmplx_conj_f32 finish 
+mips_cmplx_conj_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_conj_f32 long check done  == 
+
+== mips_cmplx_dot_prod_f32 3 test ==  
+mips_cmplx_dot_prod_f32 finish 
+mips_cmplx_dot_prod_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_f32 3 check done  == 
+
+== mips_cmplx_dot_prod_f32 4N test ==  
+mips_cmplx_dot_prod_f32 finish 
+mips_cmplx_dot_prod_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_f32 4N check done  == 
+
+== mips_cmplx_dot_prod_f32 4N+1 test ==  
+mips_cmplx_dot_prod_f32 finish 
+mips_cmplx_dot_prod_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_f32 4N+1 check done  == 
+
+== mips_cmplx_dot_prod_f32 long test ==  
+mips_cmplx_dot_prod_f32 finish 
+mips_cmplx_dot_prod_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_f32 long check done  == 
+
+== mips_cmplx_mag_f32 3 test ==  
+mips_cmplx_mag_f32 finish 
+mips_cmplx_mag_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_f32 3 check done  == 
+
+== mips_cmplx_mag_f32 4N test ==  
+mips_cmplx_mag_f32 finish 
+mips_cmplx_mag_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_f32 4N check done  == 
+
+== mips_cmplx_mag_f32 4N+1 test ==  
+mips_cmplx_mag_f32 finish 
+mips_cmplx_mag_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_f32 4N+1 check done  == 
+
+== mips_cmplx_mag_f32 long test ==  
+mips_cmplx_mag_f32 finish 
+mips_cmplx_mag_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_f32 long check done  == 
+
+== mips_cmplx_mag_squared_f32 3 test ==  
+mips_cmplx_mag_squared_f32 finish 
+mips_cmplx_mag_squared_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_squared_f32 3 check done  == 
+
+== mips_cmplx_mag_squared_f32 4N test ==  
+mips_cmplx_mag_squared_f32 finish 
+mips_cmplx_mag_squared_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_squared_f32 4N check done  == 
+
+== mips_cmplx_mag_squared_f32 4N+1 test ==  
+mips_cmplx_mag_squared_f32 finish 
+mips_cmplx_mag_squared_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_squared_f32 4N check done  == 
+
+== mips_cmplx_mag_squared_f32 long test ==  
+mips_cmplx_mag_squared_f32 finish 
+mips_cmplx_mag_squared_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_squared_f32 long check done  == 
+
+== mips_cmplx_mult_cmplx_f32 3 test ==  
+mips_cmplx_mult_cmplx_f32 finish 
+mips_cmplx_mult_cmplx_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_cmplx_f32 3 check done  == 
+
+== mips_cmplx_mult_cmplx_f32 4N test ==  
+mips_cmplx_mult_cmplx_f32 finish 
+mips_cmplx_mult_cmplx_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_cmplx_f32 4N check done  == 
+
+== mips_cmplx_mult_cmplx_f32 4N+1 test ==  
+mips_cmplx_mult_cmplx_f32 finish 
+mips_cmplx_mult_cmplx_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_cmplx_f32 4N+1 check done  == 
+
+== mips_cmplx_mult_cmplx_f32 long test ==  
+mips_cmplx_mult_cmplx_f32 finish 
+mips_cmplx_mult_cmplx_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_cmplx_f32 long check done  == 
+
+== mips_cmplx_mult_real_f32 3 test ==  
+mips_cmplx_mult_real_f32 finish 
+mips_cmplx_mult_real_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_real_f32 3 check done  == 
+
+== mips_cmplx_mult_real_f32 4N test ==  
+mips_cmplx_mult_real_f32 finish 
+mips_cmplx_mult_real_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_real_f32 4N check done  == 
+
+== mips_cmplx_mult_real_f32 4N+1 test ==  
+mips_cmplx_mult_real_f32 finish 
+mips_cmplx_mult_real_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_real_f32 4N check done  == 
+
+== mips_cmplx_mult_real_f32 long test ==  
+mips_cmplx_mult_real_f32 finish 
+mips_cmplx_mult_real_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_real_f32 long check done  == 
+
+== mips_cmplx_mag_f64 2 test ==  
+mips_cmplx_mag_f64 finish 
+mips_cmplx_mag_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_f64 3 check done  == 
+
+== mips_cmplx_mag_f64 2N test ==  
+mips_cmplx_mag_f64 finish 
+mips_cmplx_mag_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_f64 2N check done  == 
+
+== mips_cmplx_mag_f64 2N+1 test ==  
+mips_cmplx_mag_f64 finish 
+mips_cmplx_mag_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_f64 2N+1 check done  == 
+
+== mips_cmplx_mag_f64 long test ==  
+mips_cmplx_mag_f64 finish 
+mips_cmplx_mag_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_f64 long check done  == 
+
+== mips_cmplx_mag_squared_f64 2 test ==  
+mips_cmplx_mag_squared_f64 finish 
+mips_cmplx_mag_squared_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_squared_f64 3 check done  == 
+
+== mips_cmplx_mag_squared_f64 2N test ==  
+mips_cmplx_mag_squared_f64 finish 
+mips_cmplx_mag_squared_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_squared_f64 2N check done  == 
+
+== mips_cmplx_mag_squared_f64 2N+1 test ==  
+mips_cmplx_mag_squared_f64 finish 
+mips_cmplx_mag_squared_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_squared_f64 2N check done  == 
+
+== mips_cmplx_mag_squared_f64 long test ==  
+mips_cmplx_mag_squared_f64 finish 
+mips_cmplx_mag_squared_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mag_squared_f64 long check done  == 
+
+== mips_cmplx_mult_cmplx_f64 2 test ==  
+mips_cmplx_mult_cmplx_f64 finish 
+mips_cmplx_mult_cmplx_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_cmplx_f64 3 check done  == 
+
+== mips_cmplx_mult_cmplx_f64 2N test ==  
+mips_cmplx_mult_cmplx_f64 finish 
+mips_cmplx_mult_cmplx_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_cmplx_f64 2N check done  == 
+
+== mips_cmplx_mult_cmplx_f64 2N+1 test ==  
+mips_cmplx_mult_cmplx_f64 finish 
+mips_cmplx_mult_cmplx_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_cmplx_f64 2N+1 check done  == 
+
+== mips_cmplx_mult_cmplx_f64 long test ==  
+mips_cmplx_mult_cmplx_f64 finish 
+mips_cmplx_mult_cmplx_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_cmplx_mult_cmplx_f64 long check done  == 
+
+== mips_cmplx_conj_q15 test 3 ==  
+mips_cmplx_conj_q15 finish 
+mips_cmplx_conj_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_conj_q15 3 check done  == 
+
+== mips_cmplx_conj_q15 test 4N ==  
+mips_cmplx_conj_q15 finish 
+mips_cmplx_conj_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_conj_q15 4N check done  == 
+
+== mips_cmplx_conj_q15 test 4N+1 ==  
+mips_cmplx_conj_q15 finish 
+mips_cmplx_conj_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_conj_q15 4N+1 check done  == 
+
+== mips_cmplx_conj_q15 long ==  
+mips_cmplx_conj_q15 finish 
+mips_cmplx_conj_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_conj_q15 long check done  == 
+
+== mips_cmplx_dot_prod_q15 3 test ==  
+mips_cmplx_dot_prod_q15 finish 
+mips_cmplx_dot_prod_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_q15 3 check done  == 
+
+== mips_cmplx_dot_prod_q15 4N test ==  
+mips_cmplx_dot_prod_q15 finish 
+mips_cmplx_dot_prod_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_q15 4N check done  == 
+
+== mips_cmplx_dot_prod_q15 4N+1 test ==  
+mips_cmplx_dot_prod_q15 finish 
+mips_cmplx_dot_prod_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_q15 4N+1 check done  == 
+
+== mips_cmplx_mag_q15 3 test ==  
+mips_cmplx_mag_q15 finish 
+mips_cmplx_mag_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_q15 3 check done  == 
+
+== mips_cmplx_mag_q15 4N test ==  
+mips_cmplx_mag_q15 finish 
+mips_cmplx_mag_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_q15 4N check done  == 
+
+== mips_cmplx_mag_q15 4N+1 test ==  
+mips_cmplx_mag_q15 finish 
+mips_cmplx_mag_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_q15 4N+1 check done  == 
+
+== mips_cmplx_mag_q15 long test ==  
+mips_cmplx_mag_q15 finish 
+mips_cmplx_mag_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_q15 long check done  == 
+
+== mips_cmplx_mag_fast_q15 3 test ==  
+mips_cmplx_mag_fast_q15 finish 
+mips_cmplx_mag_fast_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_fast_q15 3 check done  == 
+
+== mips_cmplx_mag_fast_q15 4N test ==  
+mips_cmplx_mag_fast_q15 finish 
+mips_cmplx_mag_fast_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_fast_q15 4N check done  == 
+
+== mips_cmplx_mag_fast_q15 4N+1 test ==  
+mips_cmplx_mag_fast_q15 finish 
+mips_cmplx_mag_fast_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_fast_q15 4N check done  == 
+
+== mips_cmplx_mag_fast_q15 long test ==  
+mips_cmplx_mag_fast_q15 finish 
+mips_cmplx_mag_fast_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_fast_q15 long check done  == 
+
+== mips_cmplx_mag_squared_q15 3 test ==  
+mips_cmplx_mag_squared_q15 finish 
+mips_cmplx_mag_squared_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_squared_q15 3 check done  == 
+
+== mips_cmplx_mag_squared_q15 4N test ==  
+mips_cmplx_mag_squared_q15 finish 
+mips_cmplx_mag_squared_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_squared_q15 4N check done  == 
+
+== mips_cmplx_mag_squared_q15 4N+1 test ==  
+mips_cmplx_mag_squared_q15 finish 
+mips_cmplx_mag_squared_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_squared_q15 4N check done  == 
+
+== mips_cmplx_mag_squared_q15 long test ==  
+mips_cmplx_mag_squared_q15 finish 
+mips_cmplx_mag_squared_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_squared_q15 long check done  == 
+
+== mips_cmplx_mult_cmplx_q15 3 test ==  
+mips_cmplx_mult_cmplx_q15 finish 
+mips_cmplx_mult_cmplx_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_cmplx_q15 3 check done  == 
+
+== mips_cmplx_mult_cmplx_q15 4N test ==  
+mips_cmplx_mult_cmplx_q15 finish 
+mips_cmplx_mult_cmplx_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_cmplx_q15 4N check done  == 
+
+== mips_cmplx_mult_cmplx_q15 4N+1 test ==  
+mips_cmplx_mult_cmplx_q15 finish 
+mips_cmplx_mult_cmplx_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_cmplx_q15 4N+1 check done  == 
+
+== mips_cmplx_mult_cmplx_q15 long test ==  
+mips_cmplx_mult_cmplx_q15 finish 
+mips_cmplx_mult_cmplx_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_cmplx_q15 long check done  == 
+
+== mips_cmplx_mult_real_q15 3 test ==  
+mips_cmplx_mult_real_q15 finish 
+mips_cmplx_mult_real_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_real_q15 3 check done  == 
+
+== mips_cmplx_mult_real_q15 4N test ==  
+mips_cmplx_mult_real_q15 finish 
+mips_cmplx_mult_real_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_real_q15 4N check done  == 
+
+== mips_cmplx_mult_real_q15 4N+1 test ==  
+mips_cmplx_mult_real_q15 finish 
+mips_cmplx_mult_real_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_real_q15 4N check done  == 
+
+== mips_cmplx_mult_real_q15 long test ==  
+mips_cmplx_mult_real_q15 finish 
+mips_cmplx_mult_real_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_real_q15 long check done  == 
+
+== mips_cmplx_conj_q31 test 3 ==  
+mips_cmplx_conj_q31 finish 
+mips_cmplx_conj_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_conj_q31 3 check done  == 
+
+== mips_cmplx_conj_q31 test 4N ==  
+mips_cmplx_conj_q31 finish 
+mips_cmplx_conj_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_conj_q31 4N check done  == 
+
+== mips_cmplx_conj_q31 test 4N+1 ==  
+mips_cmplx_conj_q31 finish 
+mips_cmplx_conj_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_conj_q31 4N+1 check done  == 
+
+== mips_cmplx_conj_q31 long ==  
+mips_cmplx_conj_q31 finish 
+mips_cmplx_conj_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_conj_q31 long check done  == 
+
+== mips_cmplx_dot_prod_q31 3 test ==  
+mips_cmplx_dot_prod_q31 finish 
+mips_cmplx_dot_prod_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_q31 3 check done  == 
+
+== mips_cmplx_dot_prod_q31 4N test ==  
+mips_cmplx_dot_prod_q31 finish 
+mips_cmplx_dot_prod_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_q31 4N check done  == 
+
+== mips_cmplx_dot_prod_q31 4N+1 test ==  
+mips_cmplx_dot_prod_q31 finish 
+mips_cmplx_dot_prod_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_dot_prod_q31 4N+1 check done  == 
+
+== mips_cmplx_mag_q31 3 test ==  
+mips_cmplx_mag_q31 finish 
+mips_cmplx_mag_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_q31 3 check done  == 
+
+== mips_cmplx_mag_q31 4N test ==  
+mips_cmplx_mag_q31 finish 
+mips_cmplx_mag_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_q31 4N check done  == 
+
+== mips_cmplx_mag_q31 4N+1 test ==  
+mips_cmplx_mag_q31 finish 
+mips_cmplx_mag_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_q31 4N+1 check done  == 
+
+== mips_cmplx_mag_q31 long test ==  
+mips_cmplx_mag_q31 finish 
+mips_cmplx_mag_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_q31 long check done  == 
+
+== mips_cmplx_mag_squared_q31 3 test ==  
+mips_cmplx_mag_squared_q31 finish 
+mips_cmplx_mag_squared_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_squared_q31 3 check done  == 
+
+== mips_cmplx_mag_squared_q31 4N test ==  
+mips_cmplx_mag_squared_q31 finish 
+mips_cmplx_mag_squared_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_squared_q31 4N check done  == 
+
+== mips_cmplx_mag_squared_q31 4N+1 test ==  
+mips_cmplx_mag_squared_q31 finish 
+mips_cmplx_mag_squared_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_squared_q31 4N check done  == 
+
+== mips_cmplx_mag_squared_q31 long test ==  
+mips_cmplx_mag_squared_q31 finish 
+mips_cmplx_mag_squared_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mag_squared_q31 long check done  == 
+
+== mips_cmplx_mult_cmplx_q31 3 test ==  
+mips_cmplx_mult_cmplx_q31 finish 
+mips_cmplx_mult_cmplx_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_cmplx_q31 3 check done  == 
+
+== mips_cmplx_mult_cmplx_q31 4N test ==  
+mips_cmplx_mult_cmplx_q31 finish 
+mips_cmplx_mult_cmplx_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_cmplx_q31 4N check done  == 
+
+== mips_cmplx_mult_cmplx_q31 4N+1 test ==  
+mips_cmplx_mult_cmplx_q31 finish 
+mips_cmplx_mult_cmplx_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_cmplx_q31 4N+1 check done  == 
+
+== mips_cmplx_mult_cmplx_q31 long test ==  
+mips_cmplx_mult_cmplx_q31 finish 
+mips_cmplx_mult_cmplx_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_cmplx_q31 long check done  == 
+
+== mips_cmplx_mult_real_q31 3 test ==  
+mips_cmplx_mult_real_q31 finish 
+mips_cmplx_mult_real_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_real_q31 3 check done  == 
+
+== mips_cmplx_mult_real_q31 4N test ==  
+mips_cmplx_mult_real_q31 finish 
+mips_cmplx_mult_real_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_real_q31 4N check done  == 
+
+== mips_cmplx_mult_real_q31 4N+1 test ==  
+mips_cmplx_mult_real_q31 finish 
+mips_cmplx_mult_real_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_real_q31 4N check done  == 
+
+== mips_cmplx_mult_real_q31 long test ==  
+mips_cmplx_mult_real_q31 finish 
+mips_cmplx_mult_real_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cmplx_mult_real_q31 long check done  == 
+
+== fir_decimate_f32 test ==  
+fir_decimate_f32 finish 
+fir_decimate_f32 checking 
+
+relError count = 0, REL Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== fir_decimate_f32 check done  == 
+
+== fir_interpolate_f32 test ==  
+fir_interpolate_f32 finish 
+fir_interpolate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== fir_interpolate_f32 check done  == 
+
+== fir_decimate_q15 test ==  
+fir_decimate_q15 finish 
+fir_decimate_q15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== fir_decimate_q15 check done  == 
+
+== fir_interpolate_q15 test ==  
+fir_interpolate_q15 finish 
+fir_interpolate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== fir_interpolate_q15 check done  == 
+
+== fir_decimate_q31 test ==  
+fir_decimate_q31 finish 
+fir_decimate_q31 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== fir_decimate_q31 check done  == 
+
+== fir_interpolate_q31 test ==  
+fir_interpolate_q31 finish 
+fir_interpolate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== fir_interpolate_q31 check done  == 
+
+== mips_braycurtis_distance_f32 test ==  
+mips_braycurtis_distance_f32 finish 
+mips_braycurtis_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_braycurtis_distance_f32 check done  == 
+
+== mips_canberra_distance_f32 test ==  
+mips_canberra_distance_f32 finish 
+mips_canberra_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_canberra_distance_f32 check done  == 
+
+== mips_chebyshev_distance_f32 test ==  
+mips_chebyshev_distance_f32 finish 
+mips_chebyshev_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_chebyshev_distance_f32 check done  == 
+
+== mips_cityblock_distance_f32 test ==  
+mips_cityblock_distance_f32 finish 
+mips_cityblock_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cityblock_distance_f32 check done  == 
+
+== mips_correlation_distance_f32 test ==  
+mips_correlation_distance_f32 finish 
+mips_correlation_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_correlation_distance_f32 check done  == 
+
+== mips_cosine_distance_f32 test ==  
+mips_cosine_distance_f32 finish 
+mips_cosine_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cosine_distance_f32 check done  == 
+
+== mips_euclidean_distance_f32 test ==  
+mips_euclidean_distance_f32 finish 
+mips_euclidean_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_euclidean_distance_f32 check done  == 
+
+== mips_jensenshannon_distance_f32 test ==  
+mips_jensenshannon_distance_f32 finish 
+mips_jensenshannon_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_jensenshannon_distance_f32 check done  == 
+
+== mips_minkowski_distance_f32 test ==  
+mips_minkowski_distance_f32 finish 
+mips_minkowski_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_minkowski_distance_f32 check done  == 
+
+== mips_dtw_distance_f32 test ==  
+mips_dtw_distance_f32 finish 
+mips_dtw_distance_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_dtw_distance_f32 check done  == 
+
+== mips_dice_distance_u32 test ==  
+mips_dice_distance_u32 finish 
+mips_dice_distance_u32 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_dice_distance_u32 check done  == 
+
+== mips_hamming_distance_u32 test ==  
+mips_hamming_distance_u32 finish 
+mips_hamming_distance_u32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_hamming_distance_u32 check done  == 
+
+== mips_jaccard_distance_u32 test ==  
+mips_jaccard_distance_u32 finish 
+mips_jaccard_distance_u32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_jaccard_distance_u32 check done  == 
+
+== mips_kulsinski_distance_u32 test ==  
+mips_kulsinski_distance_u32 finish 
+mips_kulsinski_distance_u32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_kulsinski_distance_u32 check done  == 
+
+== mips_rogerstanimoto_distance_u32 test ==  
+mips_rogerstanimoto_distance_u32 finish 
+mips_rogerstanimoto_distance_u32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_rogerstanimoto_distance_u32 check done  == 
+
+== mips_russellrao_distance_u32 test ==  
+mips_russellrao_distance_u32 finish 
+mips_russellrao_distance_u32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_russellrao_distance_u32 check done  == 
+
+== mips_sokalmichener_distance_u32 test ==  
+mips_sokalmichener_distance_u32 finish 
+mips_sokalmichener_distance_u32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_sokalmichener_distance_u32 check done  == 
+
+== mips_sokalsneath_distance_u32 test ==  
+mips_sokalsneath_distance_u32 finish 
+mips_sokalsneath_distance_u32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_sokalsneath_distance_u32 check done  == 
+
+== mips_yule_distance_u32 test ==  
+mips_yule_distance_u32 finish 
+mips_yule_distance_u32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_yule_distance_u32 check done  == 
+
+== mips_cos_f32 test ==  
+mips_cos_f32 finish 
+mips_cos_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_cos_f32 check done  == 
+
+== mips_sin_f32 test ==  
+mips_sin_f32 finish 
+mips_sin_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_sin_f32 check done  == 
+
+== mips_sqrt_f32 test ==  
+mips_sqrt_f32 finish 
+mips_sqrt_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_sqrt_f32 check done  == 
+
+== mips_vlog_f32 long test ==  
+mips_vlog_f32 finish 
+mips_vlog_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vlog_f32 long check done  == 
+
+== mips_vlog_f32 2 test ==  
+mips_vlog_f32 finish 
+mips_vlog_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vlog_f32 2 check done  == 
+
+== mips_vlog_f32 2n test ==  
+mips_vlog_f32 finish 
+mips_vlog_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vlog_f32 2n check done  == 
+
+== mips_vlog_f32 2n+1 test ==  
+mips_vlog_f32 finish 
+mips_vlog_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vlog_f32 2n+1 check done  == 
+
+== mips_vexp_f32 test ==  
+mips_vexp_f32 finish 
+mips_vexp_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vexp_f32 check done  == 
+
+== mips_vexp_f32 2 test ==  
+mips_vexp_f32 finish 
+mips_vexp_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vexp_f32 2 check done  == 
+
+== mips_vexp_f32 2n test ==  
+mips_vexp_f32 finish 
+mips_vexp_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vexp_f32 2n check done  == 
+
+== mips_vexp_f32 2n+1 test ==  
+mips_vexp_f32 finish 
+mips_vexp_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vexp_f32 2n+1 check done  == 
+
+== mips_atan2_f32 test ==  
+mips_atan2_f32 finish 
+mips_atan2_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_atan2_f32 check done  == 
+
+== mips_vlog_f64 long test ==  
+mips_vlog_f64 finish 
+mips_vlog_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vlog_f64 long check done  == 
+
+== mips_vlog_f64 2 test ==  
+mips_vlog_f64 finish 
+mips_vlog_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vlog_f64 2 check done  == 
+
+== mips_vlog_f64 2n test ==  
+mips_vlog_f64 finish 
+mips_vlog_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vlog_f64 2n check done  == 
+
+== mips_vlog_f64 2n+1 test ==  
+mips_vlog_f64 finish 
+mips_vlog_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vlog_f64 2n+1 check done  == 
+
+== mips_vexp_f64 long test ==  
+mips_vexp_f64 finish 
+mips_vexp_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vexp_f64 long check done  == 
+
+== mips_vexp_f64 2 test ==  
+mips_vexp_f64 finish 
+mips_vexp_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vexp_f64 2 check done  == 
+
+== mips_vexp_f64 2n test ==  
+mips_vexp_f64 finish 
+mips_vexp_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vexp_f64 2n check done  == 
+
+== mips_vexp_f64 2n+1 test ==  
+mips_vexp_f64 finish 
+mips_vexp_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_vexp_f64 2n+1 check done  == 
+
+== mips_cos_q15 test ==  
+mips_cos_q15 finish 
+mips_cos_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cos_q15 check done  == 
+
+== mips_sin_q15 test ==  
+mips_sin_q15 finish 
+mips_sin_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_sin_q15 check done  == 
+
+== mips_sqrt_q15 test ==  
+mips_sqrt_q15 finish 
+mips_sqrt_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_sqrt_q15 check done  == 
+
+== mips_divide_q15 test ==  
+mips_divide_q15 finish 
+mips_divide_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_divide_q15 check done  == 
+
+== mips_vlog_q15 test all ==  
+mips_vlog_q15 finish 
+mips_vlog_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_vlog_q15 all check done  == 
+
+== mips_vlog_q15 test 7 ==  
+mips_vlog_q15 finish 
+mips_vlog_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_vlog_q15 7 check done  == 
+
+== mips_vlog_q15 test 16 ==  
+mips_vlog_q15 finish 
+mips_vlog_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_vlog_q15 16 check done  == 
+
+== mips_vlog_q15 test 23 ==  
+mips_vlog_q15 finish 
+mips_vlog_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_vlog_q15 23 check done  == 
+
+== mips_atan2_q15 test ==  
+mips_atan2_q15 finish 
+mips_atan2_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_atan2_q15 check done  == 
+
+== mips_recip_q15 test ==  
+mips_recip_q15 finish 
+mips_recip_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_recip_q15 check done  == 
+
+== mips_cos_q31 test ==  
+mips_cos_q31 finish 
+mips_cos_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_cos_q31 check done  == 
+
+== mips_sin_q31 test ==  
+mips_sin_q31 finish 
+mips_sin_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_sin_q31 check done  == 
+
+== mips_sqrt_q31 test ==  
+mips_sqrt_q31 finish 
+mips_sqrt_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_sqrt_q31 check done  == 
+
+== mips_divide_q31 test ==  
+mips_divide_q31 finish 
+mips_divide_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_divide_q31 check done  == 
+
+== mips_vlog_q31 test all ==  
+mips_vlog_q31 finish 
+mips_vlog_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_vlog_q31 all check done  == 
+
+== mips_vlog_q31 test 7 ==  
+mips_vlog_q31 finish 
+mips_vlog_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_vlog_q31 7 check done  == 
+
+== mips_vlog_q31 test 16 ==  
+mips_vlog_q31 finish 
+mips_vlog_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_vlog_q31 16 check done  == 
+
+== mips_vlog_q31 test 23 ==  
+mips_vlog_q31 finish 
+mips_vlog_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_vlog_q31 23 check done  == 
+
+== mips_atan2_q31 test ==  
+mips_atan2_q31 finish 
+mips_atan2_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_atan2_q31 check done  == 
+
+== mips_recip_q31 test ==  
+mips_recip_q31 finish 
+mips_recip_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_recip_q31 check done  == 
+
+== mips_norm_64_to_32u test ==  
+mips_norm_64_to_32u finish 
+mips_norm_64_to_32u checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_norm_64_to_32u check done  == 
+
+== mips_div_int64_to_int32 test ==  
+mips_div_int64_to_int32 finish 
+mips_div_int64_to_int32 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_div_int64_to_int32 check done  == 
+
+== mips_fir_f32 test ==  
+mips_fir_f32 finish 
+mips_fir_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_fir_f32 check done  == 
+
+== mips_fir_f64 test ==  
+mips_fir_f64 finish 
+mips_fir_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_fir_f64 check done  == 
+
+== mips_fir_q15 test ==  
+mips_fir_q15 finish 
+mips_fir_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_fir_q15 check done  == 
+
+== mips_fir_q31 test ==  
+mips_fir_q31 finish 
+mips_fir_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_fir_q31 check done  == 
+
+== mips_fir_q7 test ==  
+mips_fir_q7 finish 
+mips_fir_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_fir_q7 check done  == 
+
+== linear_interp_f32  test ==  
+linear_interp_f32 finish 
+linear_interp_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== linear_interp_f32 check done  == 
+
+== bilinear_interp_f32  test ==  
+bilinear_interp_f32 finish 
+bilinear_interp_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== bilinear_interp_f32 check done  == 
+
+== spline_square_f32  test ==  
+spline_square_f32 finish 
+spline_square_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+
+== spline_square_f32 check done  == 
+
+== spline_sine_f32  test ==  
+spline_sine_f32 finish 
+spline_sine_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+
+== spline_sine_f32 check done  == 
+
+== spline_ramp_f32  test ==  
+spline_ramp_f32 finish 
+spline_ramp_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+
+== spline_ramp_f32 check done  == 
+
+== mips_linear_interp_q15 test ==  
+mips_linear_interp_q15 finish 
+mips_linear_interp_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_linear_interp_q15 check done  == 
+
+== mips_bilinear_interp_q15 test ==  
+mips_linear_interp_q15 finish 
+mips_linear_interp_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_linear_interp_q15 check done  == 
+
+== mips_linear_interp_q31 test ==  
+mips_linear_interp_q31 finish 
+mips_linear_interp_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_linear_interp_q31 check done  == 
+
+== mips_bilinear_interp_q31 test ==  
+mips_linear_interp_q31 finish 
+mips_linear_interp_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_linear_interp_q31 check done  == 
+
+== mips_linear_interp_q7 test ==  
+mips_linear_interp_q7 finish 
+mips_linear_interp_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_linear_interp_q7 check done  == 
+
+== mips_bilinear_interp_q7 test ==  
+mips_linear_interp_q7 finish 
+mips_linear_interp_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_linear_interp_q7 check done  == 
+
+== mips_mfcc_f32 Noise_256 test ==  
+mips_mfcc_f32 Noise_256 finish 
+mips_mfcc_f32 Noise_256 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_mfcc_f32 Noise_256 check done  == 
+
+== mips_mfcc_f32 Noise_512 test ==  
+mips_mfcc_f32 Noise_512 finish 
+mips_mfcc_f32 Noise_512 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_mfcc_f32 Noise_512 check done  == 
+
+== mips_mfcc_f32 Noise_1024 test ==  
+mips_mfcc_f32 Noise_1024 finish 
+mips_mfcc_f32 Noise_1024 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_mfcc_f32 Noise_1024 check done  == 
+
+== mips_mfcc_f32 Sine_256 test ==  
+mips_mfcc_f32 Sine_256 finish 
+mips_mfcc_f32 Sine_256 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_mfcc_f32 Sine_256 check done  == 
+
+== mips_mfcc_f32 Sine_512 test ==  
+mips_mfcc_f32 Sine_512 finish 
+mips_mfcc_f32 Sine_512 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_mfcc_f32 Sine_512 check done  == 
+
+== mips_mfcc_f32 Sine_1024 test ==  
+mips_mfcc_f32 Sine_1024 finish 
+mips_mfcc_f32 Sine_1024 checking 
+
+snrError count = 0, SNR Test PASSED! 
+relError count = 0, REL Test PASSED! 
+
+== mips_mfcc_f32 Sine_1024 check done  == 
+
+== mips_mfcc_q15 Noise_256 test ==  
+mips_mfcc_q15 Noise_256 finish 
+mips_mfcc_q15 Noise_256 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q15 Noise_256 check done  == 
+
+== mips_mfcc_q15 Noise_512 test ==  
+mips_mfcc_q15 Noise_512 finish 
+mips_mfcc_q15 Noise_512 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q15 Noise_512 check done  == 
+
+== mips_mfcc_q15 Noise_1024 test ==  
+mips_mfcc_q15 Noise_1024 finish 
+mips_mfcc_q15 Noise_1024 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q15 Noise_1024 check done  == 
+
+== mips_mfcc_q15 Sine_256 test ==  
+mips_mfcc_q15 Sine_256 finish 
+mips_mfcc_q15 Sine_256 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q15 Sine_256 check done  == 
+
+== mips_mfcc_q15 Sine_512 test ==  
+mips_mfcc_q15 Sine_512 finish 
+mips_mfcc_q15 Sine_512 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q15 Sine_512 check done  == 
+
+== mips_mfcc_q15 Sine_1024 test ==  
+mips_mfcc_q15 Sine_1024 finish 
+mips_mfcc_q15 Sine_1024 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q15 Sine_1024 check done  == 
+
+== mips_mfcc_q31 Noise_256 test ==  
+mips_mfcc_q31 Noise_256 finish 
+mips_mfcc_q31 Noise_256 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q31 Noise_256 check done  == 
+
+== mips_mfcc_q31 Noise_512 test ==  
+mips_mfcc_q31 Noise_512 finish 
+mips_mfcc_q31 Noise_512 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q31 Noise_512 check done  == 
+
+== mips_mfcc_q31 Noise_1024 test ==  
+mips_mfcc_q31 Noise_1024 finish 
+mips_mfcc_q31 Noise_1024 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q31 Noise_1024 check done  == 
+
+== mips_mfcc_q31 Sine_256 test ==  
+mips_mfcc_q31 Sine_256 finish 
+mips_mfcc_q31 Sine_256 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q31 Sine_256 check done  == 
+
+== mips_mfcc_q31 Sine_512 test ==  
+mips_mfcc_q31 Sine_512 finish 
+mips_mfcc_q31 Sine_512 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q31 Sine_512 check done  == 
+
+== mips_mfcc_q31 Sine_1024 test ==  
+mips_mfcc_q31 Sine_1024 finish 
+mips_mfcc_q31 Sine_1024 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mfcc_q31 Sine_1024 check done  == 
+
+test:1 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:2 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:3 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:4 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:5 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:6 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:7 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:8 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:9 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:10 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:11 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:12 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:13 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:14 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:15 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:16 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:17 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:18 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:19 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:20 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:21 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:22 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:23 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:24 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:25 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:26 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:27 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:28 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:29 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:30 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:31 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:32 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:33 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:34 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:35 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:36 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:37 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:38 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:39 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:40 
+== correlate_f32  test ==  
+correlate_f32 finish 
+correlate_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f32 check done  == 
+
+test:41 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:42 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:43 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:44 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:45 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:46 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:47 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:48 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:49 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:50 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:51 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:52 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:53 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:54 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:55 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:56 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:57 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:58 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:59 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:60 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:61 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:62 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:63 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:64 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:65 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:66 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:67 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:68 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:69 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:70 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:71 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:72 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:73 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:74 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:75 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:76 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:77 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:78 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:79 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:80 
+== conv_f32  test ==  
+conv_f32 finish 
+conv_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_f32 check done  == 
+
+test:81 
+== levinson_durbin_f32  test ==  
+levinson_durbin_f32 finish 
+levinson_durbin_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+closeError count = 0, CLOSE Test PASSED!  
+
+== levinson_durbin_f32 check done  == 
+
+test:82 
+== levinson_durbin_f32  test ==  
+levinson_durbin_f32 finish 
+levinson_durbin_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+closeError count = 0, CLOSE Test PASSED!  
+
+== levinson_durbin_f32 check done  == 
+
+test:83 
+== levinson_durbin_f32  test ==  
+levinson_durbin_f32 finish 
+levinson_durbin_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+closeError count = 0, CLOSE Test PASSED!  
+
+== levinson_durbin_f32 check done  == 
+
+test:84 
+== conv_partial_f32  test ==  
+conv_partial_f32 finish 
+conv_partial_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_partial_f32 check done  == 
+
+test:85 
+== conv_partial_f32  test ==  
+conv_partial_f32 finish 
+conv_partial_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_partial_f32 check done  == 
+
+test:86 
+== conv_partial_f32  test ==  
+conv_partial_f32 finish 
+conv_partial_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== conv_partial_f32 check done  == 
+
+test:1 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:2 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:3 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:4 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:5 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:6 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:7 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:8 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:9 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:10 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:11 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:12 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:13 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:14 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:15 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:16 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:17 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:18 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:19 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:20 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:21 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:22 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:23 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:24 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:25 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:26 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:27 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:28 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:29 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:30 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:31 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:32 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:33 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:34 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:35 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:36 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:37 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:38 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:39 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:40 
+== correlate_f64  test ==  
+correlate_f64 finish 
+correlate_f64 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== correlate_f64 check done  == 
+
+test:1 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:2 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:3 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:4 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:5 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:6 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:7 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:8 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:9 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:10 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:11 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:12 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:13 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:14 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:15 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:16 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:17 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:18 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:19 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:20 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:21 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:22 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:23 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:24 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:25 
+== correlate_q15  test ==  
+correlate_q15 finish 
+correlate_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q15 check done  == 
+
+test:26 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:27 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:28 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:29 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:30 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:31 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:32 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:33 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:34 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:35 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:36 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:37 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:38 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:39 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:40 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:41 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:42 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:43 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:44 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:45 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:46 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:47 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:48 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:49 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:50 
+== conv_q15  test ==  
+conv_q15 finish 
+conv_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q15 check done  == 
+
+test:51 
+== conv_partial_q15  test ==  
+conv_partial_q15 finish 
+conv_partial_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q15 check done  == 
+
+test:52 
+== conv_partial_q15  test ==  
+conv_partial_q15 finish 
+conv_partial_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q15 check done  == 
+
+test:53 
+== conv_partial_q15  test ==  
+conv_partial_q15 finish 
+conv_partial_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q15 check done  == 
+
+test:54 
+== conv_partial_opt_q15  test ==  
+conv_partial_opt_q15 finish 
+conv_partial_opt_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_opt_q15 check done  == 
+
+test:55 
+== conv_partial_opt_q15  test ==  
+conv_partial_opt_q15 finish 
+conv_partial_opt_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_opt_q15 check done  == 
+
+test:56 
+== conv_partial_opt_q15  test ==  
+conv_partial_opt_q15 finish 
+conv_partial_opt_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_opt_q15 check done  == 
+
+test:1 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:2 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:3 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:4 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:5 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:6 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:7 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:8 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:9 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:10 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:11 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:12 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:13 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:14 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:15 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:16 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:17 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:18 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:19 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:20 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:21 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:22 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:23 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:24 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:25 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:26 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:27 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:28 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:29 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:30 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:31 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:32 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:33 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:34 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:35 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:36 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:37 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:38 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:39 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:40 
+== correlate_q31  test ==  
+correlate_q31 finish 
+correlate_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q31 check done  == 
+
+test:41 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:42 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:43 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:44 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:45 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:46 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:47 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:48 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:49 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:50 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:51 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+SNR_ERROR, details : SNR 0.84753 < 100 
+snrError count = 1, Please check your data or function 
+invalid value SN = 1, details : diff 2606920 > 2 (0x002B9C60,0x0003D518) 
+invalid value SN = 2, details : diff 569184 > 2 (0xFFF7B76C,0x000066CC) 
+invalid value SN = 3, details : diff 108196 > 2 (0x000AC090,0x000C6734) 
+invalid value SN = 4, details : diff 3021897 > 2 (0xFFDBF2A6,0x000A0EEF) 
+invalid value SN = 5, details : diff 421691 > 2 (0xFFFE5293,0xFFF7E358) 
+invalid value SN = 6, details : diff 1861624 > 2 (0x001C67F8,0x00000000) 
+invalid value SN = 7, details : diff 256654 > 2 (0x0003EA8E,0x00000000) 
+invalid value SN = 8, details : diff 313224 > 2 (0x0004C788,0x00000000) 
+invalid value SN = 9, details : diff 1059583 > 2 (0xFFEFD501,0x00000000) 
+invalid value SN = 10, details : diff 73200 > 2 (0xFFFEE210,0x00000000) 
+invalid value SN = 11, details : diff 334285 > 2 (0x000519CD,0x00000000) 
+invalid value SN = 12, details : diff 58277 > 2 (0xFFFF1C5B,0x00000000) 
+nearError count = 12, Please check your data or function 
+
+== conv_q31 check done  == 
+
+test:52 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+SNR_ERROR, details : SNR 3.61863 < 100 
+snrError count = 1, Please check your data or function 
+invalid value SN = 2, details : diff 311974 > 2 (0xFFF7B76C,0xFFFC7A12) 
+invalid value SN = 3, details : diff 81245 > 2 (0x000AC090,0x000BFDED) 
+invalid value SN = 4, details : diff 2189468 > 2 (0xFFDBF2A6,0xFFFD5B42) 
+invalid value SN = 5, details : diff 1096750 > 2 (0xFFFE5293,0xFFED9665) 
+invalid value SN = 6, details : diff 1317198 > 2 (0x001C67F8,0x00084EAA) 
+invalid value SN = 7, details : diff 256654 > 2 (0x0003EA8E,0x00000000) 
+invalid value SN = 8, details : diff 577873 > 2 (0x0008D151,0x00000000) 
+invalid value SN = 9, details : diff 748604 > 2 (0xFFF493C4,0x00000000) 
+invalid value SN = 10, details : diff 1781180 > 2 (0xFFE4D244,0x00000000) 
+invalid value SN = 11, details : diff 411259 > 2 (0x0006467B,0x00000000) 
+invalid value SN = 12, details : diff 217161 > 2 (0xFFFCAFB7,0x00000000) 
+invalid value SN = 13, details : diff 501870 > 2 (0x0007A86E,0x00000000) 
+invalid value SN = 14, details : diff 503357 > 2 (0x0007AE3D,0x00000000) 
+invalid value SN = 15, details : diff 349176 > 2 (0xFFFAAC08,0x00000000) 
+nearError count = 14, Please check your data or function 
+
+== conv_q31 check done  == 
+
+test:53 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+SNR_ERROR, details : SNR -0.750698 < 100 
+snrError count = 1, Please check your data or function 
+invalid value SN = 1, details : diff 2606919 > 2 (0x0003D519,0x002B9C60) 
+invalid value SN = 2, details : diff 569185 > 2 (0x000066CC,0xFFF7B76B) 
+invalid value SN = 3, details : diff 3830 > 2 (0x000C6734,0x000C762A) 
+invalid value SN = 4, details : diff 829205 > 2 (0x000A0EF0,0xFFFD67DB) 
+invalid value SN = 5, details : diff 575442 > 2 (0xFFF7E359,0xFFEF1B87) 
+invalid value SN = 6, details : diff 3045398 > 2 (0xFFDB1226,0x00098A3C) 
+invalid value SN = 7, details : diff 2129263 > 2 (0x001F7EEE,0xFFFF017F) 
+invalid value SN = 8, details : diff 1633269 > 2 (0xFFE7140B,0x00000000) 
+nearError count = 8, Please check your data or function 
+
+== conv_q31 check done  == 
+
+test:54 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:55 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:56 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:57 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:58 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:59 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:60 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:61 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:62 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:63 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:64 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:65 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:66 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:67 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:68 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:69 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:70 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:71 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:72 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:73 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:74 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:75 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:76 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:77 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:78 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:79 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:80 
+== conv_q31  test ==  
+conv_q31 finish 
+conv_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q31 check done  == 
+
+test:81 
+== levinson_durbin_q31  test ==  
+levinson_durbin_q31 finish 
+levinson_durbin_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED!  
+
+== levinson_durbin_q31 check done  == 
+
+test:82 
+== levinson_durbin_q31  test ==  
+levinson_durbin_q31 finish 
+levinson_durbin_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED!  
+
+== levinson_durbin_q31 check done  == 
+
+test:83 
+== levinson_durbin_q31  test ==  
+levinson_durbin_q31 finish 
+levinson_durbin_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED!  
+
+== levinson_durbin_q31 check done  == 
+
+test:84 
+== conv_partial_q31  test ==  
+conv_partial_q31 finish 
+conv_partial_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q31 check done  == 
+
+test:85 
+== conv_partial_q31  test ==  
+conv_partial_q31 finish 
+conv_partial_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q31 check done  == 
+
+test:86 
+== conv_partial_q31  test ==  
+conv_partial_q31 finish 
+conv_partial_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q31 check done  == 
+
+test:1 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:2 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:3 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:4 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:5 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:6 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:7 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:8 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:9 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:10 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:11 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:12 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:13 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:14 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:15 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:16 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:17 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:18 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:19 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:20 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:21 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:22 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:23 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:24 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:25 
+== correlate_q7  test ==  
+correlate_q7 finish 
+correlate_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== correlate_q7 check done  == 
+
+test:26 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:27 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:28 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:29 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:30 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:31 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:32 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:33 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:34 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:35 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:36 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:37 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:38 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:39 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:40 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:41 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:42 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:43 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:44 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:45 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:46 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:47 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:48 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:49 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:50 
+== conv_q7  test ==  
+conv_q7 finish 
+conv_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_q7 check done  == 
+
+test:51 
+== conv_partial_q7  test ==  
+conv_partial_q7 finish 
+conv_partial_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q7 check done  == 
+
+test:52 
+== conv_partial_q7  test ==  
+conv_partial_q7 finish 
+conv_partial_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q7 check done  == 
+
+test:53 
+== conv_partial_q7  test ==  
+conv_partial_q7 finish 
+conv_partial_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_q7 check done  == 
+
+test:54 
+== conv_partial_opt_q7  test ==  
+conv_partial_opt_q7 finish 
+conv_partial_opt_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_opt_q7 check done  == 
+
+test:55 
+== conv_partial_opt_q7  test ==  
+conv_partial_opt_q7 finish 
+conv_partial_opt_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_opt_q7 check done  == 
+
+test:56 
+== conv_partial_opt_q7  test ==  
+conv_partial_opt_q7 finish 
+conv_partial_opt_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== conv_partial_opt_q7 check done  == 
+
+== mips_quaternion_norm_f32 test ==  
+mips_quaternion_norm_f32 finish 
+mips_quaternion_norm_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_quaternion_norm_f32 check done  == 
+
+== mips_quaternion_inverse_f32 test ==  
+mips_quaternion_inverse_f32 finish 
+mips_quaternion_inverse_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_quaternion_inverse_f32 check done  == 
+
+== mips_quaternion_conjugate_f32 test ==  
+mips_quaternion_conjugate_f32 finish 
+mips_quaternion_conjugate_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_quaternion_conjugate_f32 check done  == 
+
+== mips_quaternion_normalize_f32 test ==  
+mips_quaternion_normalize_f32 finish 
+mips_quaternion_normalize_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_quaternion_normalize_f32 check done  == 
+
+== mips_quaternion_product_single_f32 test ==  
+mips_quaternion_product_single_f32 finish 
+mips_quaternion_product_single_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_quaternion_product_single_f32 check done  == 
+
+== mips_quaternion_product_f32 test ==  
+mips_quaternion_product_f32 finish 
+mips_quaternion_product_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_quaternion_product_f32 check done  == 
+
+== mips_quaternion2rotation_f32 test ==  
+mips_quaternion2rotation_f32 finish 
+mips_quaternion2rotation_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_quaternion2rotation_f32 check done  == 
+
+== mips_rotation2quaternion_f32 test ==  
+mips_rotation2quaternion_f32 finish 
+mips_rotation2quaternion_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_rotation2quaternion_f32 check done  == 
+
+== mips_max_q15 test ==  
+mips_max_q15 output = 6912 
+index = 4 
+mips_max_q15 finish 
+mips_max_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_q15 check done  == 
+
+mips_max_q15 output = 6912 
+index = 4 
+mips_max_q15 finish 
+mips_max_q15 output = 6912 
+index = 4 
+mips_max_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_q15 check done  == 
+
+mips_max_q15 finish 
+mips_max_q15 output = 6912 
+index = 4 
+mips_max_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_q15 check done  == 
+
+== mips_absmax_q15 test ==  
+mips_absmax_q15 output = 3f55 
+index = 1 
+mips_absmax_q15 finish 
+mips_absmax_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_q15 check done  == 
+
+== mips_absmax_q15 test ==  
+mips_absmax_q15 output = 5247 
+index = 8 
+mips_absmax_q15 finish 
+mips_absmax_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_q15 check done  == 
+
+== mips_absmax_q15 test ==  
+mips_absmax_q15 output = 634e 
+index = 21 
+mips_absmax_q15 finish 
+mips_absmax_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_q15 check done  == 
+
+== mips_max_no_idx_q15 test ==  
+mips_max_no_idx_q15 output = 6912 
+mips_max_no_idx_q15 finish 
+mips_max_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_no_idx_q15 check done  == 
+
+== mips_max_no_idx_q15 test ==  
+mips_max_no_idx_q15 output = 6912 
+mips_max_no_idx_q15 finish 
+mips_max_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_no_idx_q15 check done  == 
+
+== mips_max_no_idx_q15 test ==  
+mips_max_no_idx_q15 output = 6912 
+mips_max_no_idx_q15 finish 
+mips_max_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_no_idx_q15 check done  == 
+
+== mips_absmax_no_idx_q15 test ==  
+mips_absmax_no_idx_q15 output = 3f55 
+mips_absmax_no_idx_q15 finish 
+mips_absmax_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_no_idx_q15 check done  == 
+
+== mips_absmax_no_idx_q15 test ==  
+mips_absmax_no_idx_q15 output = 5247 
+mips_absmax_no_idx_q15 finish 
+mips_absmax_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_no_idx_q15 check done  == 
+
+== mips_absmax_no_idx_q15 test ==  
+mips_absmax_no_idx_q15 output = 634e 
+mips_absmax_no_idx_q15 finish 
+mips_absmax_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_no_idx_q15 check done  == 
+
+== mips_min_no_idx_q15 test ==  
+mips_min_no_idx_q15 output = ffffb6ba 
+mips_min_no_idx_q15 finish 
+mips_min_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_no_idx_q15 check done  == 
+
+== mips_min_no_idx_q15 test ==  
+mips_min_no_idx_q15 output = ffffb6ba 
+mips_min_no_idx_q15 finish 
+mips_min_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_no_idx_q15 check done  == 
+
+== mips_min_no_idx_q15 test ==  
+mips_min_no_idx_q15 output = ffff9fd0 
+mips_min_no_idx_q15 finish 
+mips_min_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_no_idx_q15 check done  == 
+
+== mips_absmin_no_idx_q15 test ==  
+mips_absmin_no_idx_q15 output = 1fe 
+mips_absmin_no_idx_q15 finish 
+mips_absmin_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_no_idx_q15 check done  == 
+
+== mips_absmin_no_idx_q15 test ==  
+mips_absmin_no_idx_q15 output = 125 
+mips_absmin_no_idx_q15 finish 
+mips_absmin_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_no_idx_q15 check done  == 
+
+== mips_absmin_no_idx_q15 test ==  
+mips_absmin_no_idx_q15 output = 125 
+mips_absmin_no_idx_q15 finish 
+mips_absmin_no_idx_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_no_idx_q15 check done  == 
+
+== mips_min_q15 test ==  
+mips_min_q15 output = ffffb6ba 
+index = 5 
+mips_min_q15 finish 
+mips_min_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_q15 check done  == 
+
+== mips_min_q15 test ==  
+mips_min_q15 output = ffffb6ba 
+index = 5 
+mips_min_q15 finish 
+mips_min_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_q15 check done  == 
+
+== mips_min_q15 test ==  
+mips_min_q15 output = ffff9fd0 
+index = 21 
+mips_min_q15 finish 
+mips_min_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_q15 check done  == 
+
+== mips_absmin_q15 test ==  
+mips_absmin_q15 output = 1fe 
+index = 2 
+mips_absmin_q15 finish 
+mips_absmin_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_q15 check done  == 
+
+== mips_absmin_q15 test ==  
+mips_absmin_q15 output = 125 
+index = 15 
+mips_absmin_q15 finish 
+mips_absmin_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_q15 check done  == 
+
+== mips_absmin_q15 test ==  
+mips_absmin_q15 output = 125 
+index = 15 
+mips_absmin_q15 finish 
+mips_absmin_q15 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_q15 check done  == 
+
+== mips_mean_q15 test ==  
+mips_mean_q15 output = 2a1c 
+mips_mean_q15 finish 
+mips_mean_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mean_q15 check done  == 
+
+== mips_mean_q15 test ==  
+mips_mean_q15 output = 203a 
+mips_mean_q15 finish 
+mips_mean_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mean_q15 check done  == 
+
+== mips_mean_q15 test ==  
+mips_mean_q15 output = 225d 
+mips_mean_q15 finish 
+mips_mean_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mean_q15 check done  == 
+
+== mips_power_q15 test ==  
+mips_power_q15 output = c44 
+mips_power_q15 finish 
+mips_power_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_power_q15 check done  == 
+
+== mips_power_q15 test ==  
+mips_power_q15 output = 4611 
+mips_power_q15 finish 
+mips_power_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_power_q15 check done  == 
+
+== mips_power_q15 test ==  
+mips_power_q15 output = ffffbb17 
+mips_power_q15 finish 
+mips_power_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_power_q15 check done  == 
+
+== mips_rms_q15 test ==  
+mips_rms_q15 output = 34df 
+mips_rms_q15 finish 
+mips_rms_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_rms_q15 check done  == 
+
+== mips_rms_q15 test ==  
+mips_rms_q15 output = 2a92 
+mips_rms_q15 finish 
+mips_rms_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_rms_q15 check done  == 
+
+== mips_rms_q15 test ==  
+mips_rms_q15 output = 2c6a 
+mips_rms_q15 finish 
+mips_rms_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_rms_q15 check done  == 
+
+== mips_std_q15 test ==  
+mips_std_q15 output = 38f8 
+mips_std_q15 finish 
+mips_std_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_std_q15 check done  == 
+
+== mips_std_q15 test ==  
+mips_std_q15 output = 2bf3 
+mips_std_q15 finish 
+mips_std_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_std_q15 check done  == 
+
+== mips_std_q15 test ==  
+mips_std_q15 output = 2d39 
+mips_std_q15 finish 
+mips_std_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_std_q15 check done  == 
+
+== mips_var_q15 test ==  
+mips_var_q15 output = 195c 
+mips_var_q15 finish 
+mips_var_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_var_q15 check done  == 
+
+== mips_var_q15 test ==  
+mips_var_q15 output = f17 
+mips_var_q15 finish 
+mips_var_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_var_q15 check done  == 
+
+== mips_var_q15 test ==  
+mips_var_q15 output = ffb 
+mips_var_q15 finish 
+mips_var_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_var_q15 check done  == 
+
+== mips_mse_q15 test ==  
+mips_mse_q15 output = 138a 
+mips_mse_q15 finish 
+mips_mse_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mse_q15 check done  == 
+
+== mips_mse_q15 test ==  
+mips_mse_q15 output = 18dc 
+mips_mse_q15 finish 
+mips_mse_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mse_q15 check done  == 
+
+== mips_max_q7 test ==  
+mips_max_q7 output = 45 
+index = 0 
+mips_max_q7 finish 
+mips_max_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_q7 check done  == 
+
+mips_max_q7 output = 50 
+index = 26 
+mips_max_q7 finish 
+mips_max_q7 output = 50 
+index = 26 
+mips_max_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_q7 check done  == 
+
+mips_max_q7 finish 
+mips_max_q7 output = 50 
+index = 26 
+mips_max_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_q7 check done  == 
+
+== mips_absmax_q7 test ==  
+mips_absmax_q7 output = 66 
+index = 12 
+mips_absmax_q7 finish 
+mips_absmax_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_q7 check done  == 
+
+== mips_absmax_q7 test ==  
+mips_absmax_q7 output = 66 
+index = 12 
+mips_absmax_q7 finish 
+mips_absmax_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_q7 check done  == 
+
+== mips_absmax_q7 test ==  
+mips_absmax_q7 output = 66 
+index = 12 
+mips_absmax_q7 finish 
+mips_absmax_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_q7 check done  == 
+
+== mips_max_no_idx_q7 test ==  
+mips_max_no_idx_q7 output = 45 
+mips_max_no_idx_q7 finish 
+mips_max_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_no_idx_q7 check done  == 
+
+== mips_max_no_idx_q7 test ==  
+mips_max_no_idx_q7 output = 50 
+mips_max_no_idx_q7 finish 
+mips_max_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_no_idx_q7 check done  == 
+
+== mips_max_no_idx_q7 test ==  
+mips_max_no_idx_q7 output = 50 
+mips_max_no_idx_q7 finish 
+mips_max_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_max_no_idx_q7 check done  == 
+
+== mips_absmax_no_idx_q7 test ==  
+mips_absmax_no_idx_q7 output = 66 
+mips_absmax_no_idx_q7 finish 
+mips_absmax_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_no_idx_q7 check done  == 
+
+== mips_absmax_no_idx_q7 test ==  
+mips_absmax_no_idx_q7 output = 66 
+mips_absmax_no_idx_q7 finish 
+mips_absmax_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_no_idx_q7 check done  == 
+
+== mips_absmax_no_idx_q7 test ==  
+mips_absmax_no_idx_q7 output = 66 
+mips_absmax_no_idx_q7 finish 
+mips_absmax_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmax_no_idx_q7 check done  == 
+
+== mips_min_no_idx_q7 test ==  
+mips_min_no_idx_q7 output = ffffff99 
+mips_min_no_idx_q7 finish 
+mips_min_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_no_idx_q7 check done  == 
+
+== mips_min_no_idx_q7 test ==  
+mips_min_no_idx_q7 output = ffffff99 
+mips_min_no_idx_q7 finish 
+mips_min_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_no_idx_q7 check done  == 
+
+== mips_min_no_idx_q7 test ==  
+mips_min_no_idx_q7 output = ffffff99 
+mips_min_no_idx_q7 finish 
+mips_min_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_no_idx_q7 check done  == 
+
+== mips_absmin_no_idx_q7 test ==  
+mips_absmin_no_idx_q7 output = 1 
+mips_absmin_no_idx_q7 finish 
+mips_absmin_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_no_idx_q7 check done  == 
+
+== mips_absmin_no_idx_q7 test ==  
+mips_absmin_no_idx_q7 output = 1 
+mips_absmin_no_idx_q7 finish 
+mips_absmin_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_no_idx_q7 check done  == 
+
+== mips_absmin_no_idx_q7 test ==  
+mips_absmin_no_idx_q7 output = 1 
+mips_absmin_no_idx_q7 finish 
+mips_absmin_no_idx_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_no_idx_q7 check done  == 
+
+== mips_min_q7 test ==  
+mips_min_q7 output = ffffff99 
+index = 14 
+mips_min_q7 finish 
+mips_min_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_q7 check done  == 
+
+== mips_min_q7 test ==  
+mips_min_q7 output = ffffff99 
+index = 14 
+mips_min_q7 finish 
+mips_min_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_q7 check done  == 
+
+== mips_min_q7 test ==  
+mips_min_q7 output = ffffff99 
+index = 14 
+mips_min_q7 finish 
+mips_min_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_min_q7 check done  == 
+
+== mips_absmin_q7 test ==  
+mips_absmin_q7 output = 1 
+index = 9 
+mips_absmin_q7 finish 
+mips_absmin_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_q7 check done  == 
+
+== mips_absmin_q7 test ==  
+mips_absmin_q7 output = 1 
+index = 9 
+mips_absmin_q7 finish 
+mips_absmin_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_q7 check done  == 
+
+== mips_absmin_q7 test ==  
+mips_absmin_q7 output = 1 
+index = 9 
+mips_absmin_q7 finish 
+mips_absmin_q7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_absmin_q7 check done  == 
+
+== mips_mean_q7 test ==  
+mips_mean_q7 output = 29 
+mips_mean_q7 finish 
+mips_mean_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mean_q7 check done  == 
+
+== mips_mean_q7 test ==  
+mips_mean_q7 output = 29 
+mips_mean_q7 finish 
+mips_mean_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mean_q7 check done  == 
+
+== mips_mean_q7 test ==  
+mips_mean_q7 output = 22 
+mips_mean_q7 finish 
+mips_mean_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mean_q7 check done  == 
+
+== mips_power_q7 test ==  
+mips_power_q7 output = 4a85c48f 
+mips_power_q7 finish 
+mips_power_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_power_q7 check done  == 
+
+== mips_power_q7 test ==  
+mips_power_q7 output = 4a85c48f 
+mips_power_q7 finish 
+mips_power_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_power_q7 check done  == 
+
+== mips_power_q7 test ==  
+mips_power_q7 output = 4a85c48f 
+mips_power_q7 finish 
+mips_power_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_power_q7 check done  == 
+
+== mips_mse_q7 test ==  
+mips_mse_q7 output = 16 
+mips_mse_q7 finish 
+mips_mse_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mse_q7 check done  == 
+
+== mips_mse_q7 test ==  
+mips_mse_q7 output = 19 
+mips_mse_q7 finish 
+mips_mse_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mse_q7 check done  == 
+
+== mips_barycenter_f32 test ==  
+mips_barycenter_f32 finish 
+mips_barycenter_f32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_barycenter_f32 check done  == 
+
+== mips_copy_f64 2 test ==  
+mips_copy_f64 2 finish 
+mips_copy_f64 2 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_f64 2 check done  == 
+
+== mips_copy_f64 4 test ==  
+mips_copy_f64 4 finish 
+mips_copy_f64 4 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_f64 4 check done  == 
+
+== mips_copy_f64 5 test ==  
+mips_copy_f64 5 finish 
+mips_copy_f64 5 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_f64 5 check done  == 
+
+== test_fill_f64 2 test ==  
+test_fill_f64 2 finish 
+test_fill_f64 2 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== test_fill_f64 2 check done  == 
+
+== test_fill_f64 4 test ==  
+test_fill_f64 4 finish 
+test_fill_f64 4 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== test_fill_f64 4 check done  == 
+
+== test_fill_f64 5 test ==  
+test_fill_f64 5 finish 
+test_fill_f64 5 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== test_fill_f64 5 check done  == 
+
+== mips_f64_to_float 1 test ==  
+mips_f64_to_float 1 finish 
+mips_f64_to_float 1 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_f64_to_float 1 check done  == 
+
+== mips_f64_to_float 4 test ==  
+mips_f64_to_float 4 finish 
+mips_f64_to_float 4 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_f64_to_float 4 check done  == 
+
+== mips_f64_to_float 5 test ==  
+mips_f64_to_float 5 finish 
+mips_f64_to_float 5 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_f64_to_float 5 check done  == 
+
+== mips_f64_to_q15 1 test ==  
+mips_f64_to_q15 1 finish 
+mips_f64_to_q15 1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q15 1 check done  == 
+
+== mips_f64_to_q15 4 test ==  
+mips_f64_to_q15 4 finish 
+mips_f64_to_q15 4 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q15 4 check done  == 
+
+== mips_f64_to_q15 5 test ==  
+mips_f64_to_q15 5 finish 
+mips_f64_to_q15 5 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q15 5 check done  == 
+
+== mips_f64_to_q31 1 test ==  
+mips_f64_to_q31 1 finish 
+mips_f64_to_q31 1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q31 1 check done  == 
+
+== mips_f64_to_q31 4 test ==  
+mips_f64_to_q31 4 finish 
+mips_f64_to_q31 4 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q31 4 check done  == 
+
+== mips_f64_to_q31 6 test ==  
+mips_f64_to_q31 6 finish 
+mips_f64_to_q31 6 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q31 6 check done  == 
+
+== mips_f64_to_q7 1 test ==  
+mips_f64_to_q7 1 finish 
+mips_f64_to_q7 1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q7 1 check done  == 
+
+== mips_f64_to_q7 4 test ==  
+mips_f64_to_q7 4 finish 
+mips_f64_to_q7 4 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q7 4 check done  == 
+
+== mips_f64_to_q7 5 test ==  
+mips_f64_to_q7 5 finish 
+mips_f64_to_q7 5 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_f64_to_q7 5 check done  == 
+
+== mips_copy_q15 7 test ==  
+mips_copy_q15 7 finish 
+mips_copy_q15 7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q15 7 check done  == 
+
+== mips_copy_q15 16 test ==  
+mips_copy_q15 16 finish 
+mips_copy_q15 16 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q15 16 check done  == 
+
+== mips_copy_q15 23 test ==  
+mips_copy_q15 23 finish 
+mips_copy_q15 23 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q15 23 check done  == 
+
+== mips_fill_q15 7 test ==  
+mips_fill_q15 7 finish 
+mips_fill_q15 7 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q15 7 check done  == 
+
+== mips_fill_q15 16 test ==  
+mips_fill_q15 16 finish 
+mips_fill_q15 16 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q15 16 check done  == 
+
+== mips_fill_q15 23 test ==  
+mips_fill_q15 23 finish 
+mips_fill_q15 23 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q15 23 check done  == 
+
+== mips_q15_to_f64 7 test ==  
+mips_q15_to_f64 7 finish 
+mips_q15_to_f64 7 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q15_to_f64 7 check done  == 
+
+== mips_q15_to_f64 16 test ==  
+mips_q15_to_f64 16 finish 
+mips_q15_to_f64 16 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q15_to_f64 16 check done  == 
+
+== mips_q15_to_f64 23 test ==  
+mips_q15_to_f64 23 finish 
+mips_q15_to_f64 23 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q15_to_f64 23 check done  == 
+
+== mips_q15_to_float 7 test ==  
+mips_q15_to_float 7 finish 
+mips_q15_to_float 7 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q15_to_float 7 check done  == 
+
+== mips_q15_to_float 16 test ==  
+mips_q15_to_float 16 finish 
+mips_q15_to_float 16 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q15_to_float 16 check done  == 
+
+== mips_q15_to_float 23 test ==  
+mips_q15_to_float 23 finish 
+mips_q15_to_float 23 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q15_to_float 23 check done  == 
+
+== mips_q15_to_q31 7 test ==  
+mips_q15_to_q31 7 finish 
+mips_q15_to_q31 7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q15_to_q31 7 check done  == 
+
+== mips_q15_to_q31 16 test ==  
+mips_q15_to_q31 16 finish 
+mips_q15_to_q31 16 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q15_to_q31 16 check done  == 
+
+== mips_q15_to_q31 23 test ==  
+mips_q15_to_q31 23 finish 
+mips_q15_to_q31 23 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q15_to_q31 23 check done  == 
+
+== mips_q15_to_q7 7 test ==  
+mips_q15_to_q7 7 finish 
+mips_q15_to_q7 7 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q15_to_q7 7 check done  == 
+
+== mips_q15_to_q7 16 test ==  
+mips_q15_to_q7 16 finish 
+mips_q15_to_q7 16 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q15_to_q7 16 check done  == 
+
+== mips_q15_to_q7 23 test ==  
+mips_q15_to_q7 23 finish 
+mips_q15_to_q7 23 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q15_to_q7 23 check done  == 
+
+== test_read_q15x2 test ==  
+
+== test_read_q15x2 check done  == 
+
+== test_read_q15x2_ia test ==  
+
+== test_read_q15x2_ia check done  == 
+
+== test_read_q15x2_da test ==  
+
+== test_read_q15x2_da check done  == 
+
+== test_write_q15x2_ia test ==  
+
+== test_write_q15x2_ia check done  == 
+
+== test_write_q15x2 test ==  
+
+== test_write_q15x2 check done  == 
+
+== mips_copy_q31 3 test ==  
+mips_copy_q31 3 finish 
+mips_copy_q31 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q31 3 check done  == 
+
+== mips_copy_q31 8 test ==  
+mips_copy_q31 8 finish 
+mips_copy_q31 8 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q31 8 check done  == 
+
+== mips_copy_q31 11 test ==  
+mips_copy_q31 11 finish 
+mips_copy_q31 11 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q31 11 check done  == 
+
+== mips_fill_q31 3 test ==  
+mips_fill_q31 3 finish 
+mips_fill_q31 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q31 3 check done  == 
+
+== mips_fill_q31 8 test ==  
+mips_fill_q31 8 finish 
+mips_fill_q31 8 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q31 8 check done  == 
+
+== mips_fill_q31 11 test ==  
+mips_fill_q31 11 finish 
+mips_fill_q31 11 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q31 11 check done  == 
+
+== mips_q31_to_f64 3 test ==  
+mips_q31_to_f64 3 finish 
+mips_q31_to_f64 3 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q31_to_f64 3 check done  == 
+
+== mips_q31_to_f64 8 test ==  
+mips_q31_to_f64 8 finish 
+mips_q31_to_f64 8 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q31_to_f64 8 check done  == 
+
+== mips_q31_to_f64 11 test ==  
+mips_q31_to_f64 11 finish 
+mips_q31_to_f64 11 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q31_to_f64 11 check done  == 
+
+== mips_q31_to_float 7 test ==  
+mips_q31_to_float 7 finish 
+mips_q31_to_float 7 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q31_to_float 7 check done  == 
+
+== mips_q31_to_float 16 test ==  
+mips_q31_to_float 16 finish 
+mips_q31_to_float 16 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q31_to_float 16 check done  == 
+
+== mips_q31_to_float 17 test ==  
+mips_q31_to_float 17 finish 
+mips_q31_to_float 17 checking 
+
+relError count = 0, REL Test PASSED! 
+
+== mips_q31_to_float 17 check done  == 
+
+== mips_q31_to_q15 3 test ==  
+mips_q31_to_q15 3 finish 
+mips_q31_to_q15 3 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q31_to_q15 3 check done  == 
+
+== mips_q31_to_q15 8 test ==  
+mips_q31_to_q15 8 finish 
+mips_q31_to_q15 8 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q31_to_q15 8 check done  == 
+
+== mips_q31_to_q15 11 test ==  
+mips_q31_to_q15 11 finish 
+mips_q31_to_q15 11 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q31_to_q15 11 check done  == 
+
+== mips_q31_to_q7 15 test ==  
+mips_q31_to_q7 15 finish 
+mips_q31_to_q7 15 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q31_to_q7 15 check done  == 
+
+== mips_q31_to_q7 32 test ==  
+mips_q31_to_q7 32 finish 
+mips_q31_to_q7 32 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q31_to_q7 32 check done  == 
+
+== mips_q31_to_q7 33 test ==  
+mips_q31_to_q7 33 finish 
+mips_q31_to_q7 33 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q31_to_q7 33 check done  == 
+
+== mips_copy_q7 3 test ==  
+mips_copy_q7 3 finish 
+mips_copy_q7 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q7 3 check done  == 
+
+== mips_copy_q7 4N test ==  
+mips_copy_q7 4N finish 
+mips_copy_q7 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q7 4N check done  == 
+
+== mips_copy_q7 4N+1 test ==  
+mips_copy_q7 4N+1 finish 
+mips_copy_q7 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+
+== mips_copy_q7 4N+1 check done  == 
+
+== mips_fill_q7 3 test ==  
+mips_fill_q7 3 finish 
+mips_fill_q7 3 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q7 3 check done  == 
+
+== mips_fill_q7 4N test ==  
+mips_fill_q7 4N finish 
+mips_fill_q7 4N checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q7 4N check done  == 
+
+== mips_fill_q7 4N+1 test ==  
+mips_fill_q7 4N+1 finish 
+mips_fill_q7 4N+1 checking 
+
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+eqError count = 0, EQ Test PASSED! 
+
+== mips_fill_q7 4N+1 check done  == 
+
+== mips_q7_to_f64 3 test ==  
+mips_q7_to_f64 3 finish 
+mips_q7_to_f64 3 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_q7_to_f64 3 check done  == 
+
+== mips_q7_to_f64 4N test ==  
+mips_q7_to_f64 4N finish 
+mips_q7_to_f64 4N checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_q7_to_f64 4N check done  == 
+
+== mips_q7_to_f64 4N+1 test ==  
+mips_q7_to_f64 4N+1 finish 
+mips_q7_to_f64 4N+1 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_q7_to_f64 4N+1 check done  == 
+
+== mips_q7_to_float 3 test ==  
+mips_q7_to_float 3 finish 
+mips_q7_to_float 3 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_q7_to_float 3 check done  == 
+
+== mips_q7_to_float 4N test ==  
+mips_q7_to_float 4N finish 
+mips_q7_to_float 4N checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_q7_to_float 4N check done  == 
+
+== mips_q7_to_float 4N+1 test ==  
+mips_q7_to_float 4N+1 finish 
+mips_q7_to_float 4N+1 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_q7_to_float 4N+1 check done  == 
+
+== mips_q7_to_q31 3 test ==  
+mips_q7_to_q31 3 finish 
+mips_q7_to_q31 3 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q7_to_q31 3 check done  == 
+
+== mips_q7_to_q31 4N test ==  
+mips_q7_to_q31 4N finish 
+mips_q7_to_q31 4N checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q7_to_q31 4N check done  == 
+
+== mips_q7_to_q31 4N+1 test ==  
+mips_q7_to_q31 4N+1 finish 
+mips_q7_to_q31 4N+1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q7_to_q31 4N+1 check done  == 
+
+== mips_q7_to_q15 3 test ==  
+mips_q7_to_q15 3 finish 
+mips_q7_to_q15 3 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q7_to_q15 3 check done  == 
+
+== mips_q7_to_q15 4N test ==  
+mips_q7_to_q15 4N finish 
+mips_q7_to_q15 4N checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q7_to_q15 4N check done  == 
+
+== mips_q7_to_q15 4N+1 test ==  
+mips_q7_to_q15 4N+1 finish 
+mips_q7_to_q15 4N+1 checking 
+
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_q7_to_q15 4N+1 check done  == 
+
+== test_read_q7x4_ia test ==  
+
+== test_read_q7x4_ia check done  == 
+
+== test_read_q7x4_da test ==  
+
+== test_read_q7x4_da check done  == 
+
+== test_write_q7x4_ia test ==  
+
+== test_write_q7x4_ia check done  == 
+
+1
+eqError count = 0, EQ Test PASSED! 
+1
+eqError count = 0, EQ Test PASSED! 
+1
+eqError count = 0, EQ Test PASSED! 
+0
+eqError count = 0, EQ Test PASSED! 
+== mips_mat_add_f32 test ==  
+mips_mat_add_f32 finish 
+mips_mat_add_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_add_f32 check done  == 
+
+== mips_mat_sub_f32 test ==  
+mips_mat_sub_f32 finish 
+mips_mat_sub_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_sub_f32 check done  == 
+
+== mips_mat_scale_f32 test ==  
+mips_mat_scale_f32 finish 
+mips_mat_scale_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_scale_f32 check done  == 
+
+== mips_mat_trans_f32 test ==  
+mips_mat_trans_f32 finish 
+mips_mat_trans_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_trans_f32 check done  == 
+
+== mips_mat_inverse_f32 test ==  
+mips_mat_inverse_f32 finish 
+mips_mat_inverse_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_inverse_f32 check done  == 
+
+== mips_mat_vec_mult_f32 test ==  
+mips_mat_vec_mult_f32 finish 
+mips_mat_vec_mult_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_vec_mult_f32 check done  == 
+
+== mips_mat_cmplx_trans_f32 test ==  
+mips_mat_cmplx_trans_f32 finish 
+mips_mat_cmplx_trans_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_cmplx_trans_f32 check done  == 
+
+== mips_mat_cholesky_dpo_f32 test ==  
+mips_mat_cholesky_dpo_f32 finish 
+mips_mat_cholesky_dpo_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_cholesky_dpo_f32 check done  == 
+
+== mips_mat_solve_upper_triangular_f32 test ==  
+mips_mat_solve_upper_triangular_f32 finish 
+mips_mat_solve_upper_triangular_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_solve_upper_triangular_f32 check done  == 
+
+== mips_mat_solve_lower_triangular_f32 test ==  
+mips_mat_solve_lower_triangular_f32 finish 
+mips_mat_solve_lower_triangular_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_solve_lower_triangular_f32 check done  == 
+
+== mips_mat_ldlt_f32 11 test ==  
+mips_mat_ldlt_f32 11 finish 
+mips_mat_ldlt_f32 11 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_ldlt_f32 11 check done  == 
+
+== mips_mat_ldlt_f32 12 test ==  
+mips_mat_ldlt_f32 12 finish 
+mips_mat_ldlt_f32 12 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_ldlt_f32 12 check done  == 
+
+== mips_householder_f32 test ==  
+mips_householder_f32 finish 
+mips_householder_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_householder_f32 check done  == 
+
+== mips_mat_qr_f32 test ==  
+mips_mat_qr_f32 finish 
+mips_mat_qr_f32 checking 
+
+snrError count = 0, SNR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+closeError count = 0, CLOSE Test PASSED! 
+
+== mips_mat_qr_f32 check done  == 
+
+== mips_mat_add_q15 test ==  
+mips_mat_add_q15 finish 
+mips_mat_add_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_add_q15 check done  == 
+
+== mips_mat_sub_q15 test ==  
+mips_mat_sub_q15 finish 
+mips_mat_sub_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_sub_q15 check done  == 
+
+== mips_mat_scale_q15 test ==  
+mips_mat_scale_q15 finish 
+mips_mat_scale_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_scale_q15 check done  == 
+
+== mips_mat_trans_q15 test ==  
+mips_mat_trans_q15 finish 
+mips_mat_trans_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_trans_q15 check done  == 
+
+== mips_mat_vec_mult_q15 test ==  
+mips_mat_vec_mult_q15 finish 
+mips_mat_vec_mult_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_vec_mult_q15 check done  == 
+
+== mips_mat_cmplx_trans_q15 test ==  
+mips_mat_cmplx_trans_q15 finish 
+mips_mat_cmplx_trans_q15 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_cmplx_trans_q15 check done  == 
+
+== mips_mat_add_q31 test ==  
+mips_mat_add_q31 finish 
+mips_mat_add_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_add_q31 check done  == 
+
+== mips_mat_sub_q31 test ==  
+mips_mat_sub_q31 finish 
+mips_mat_sub_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_sub_q31 check done  == 
+
+== mips_mat_scale_q31 test ==  
+mips_mat_scale_q31 finish 
+mips_mat_scale_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_scale_q31 check done  == 
+
+== mips_mat_trans_q31 test ==  
+mips_mat_trans_q31 finish 
+mips_mat_trans_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_trans_q31 check done  == 
+
+== mips_mat_vec_mult_q31 test ==  
+mips_mat_vec_mult_q31 finish 
+mips_mat_vec_mult_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_vec_mult_q31 check done  == 
+
+== mips_mat_cmplx_trans_q31 test ==  
+mips_mat_cmplx_trans_q31 finish 
+mips_mat_cmplx_trans_q31 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_cmplx_trans_q31 check done  == 
+
+== mips_mat_trans_q7 test ==  
+mips_mat_trans_q7 finish 
+mips_mat_trans_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_trans_q7 check done  == 
+
+== mips_mat_vec_mult_q7 test ==  
+mips_mat_vec_mult_q7 finish 
+mips_mat_vec_mult_q7 checking 
+
+snrError count = 0, SNR Test PASSED! 
+nearError count = 0, NEAR Test PASSED! 
+
+== mips_mat_vec_mult_q7 check done  == 
+
+== mips_welch_f32 test ==  
+mips_welch_f32 finish 
+mips_welch_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_welch_f32 check done  == 
+
+== mips_bartlett_f32 test ==  
+mips_bartlett_f32 finish 
+mips_bartlett_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_bartlett_f32 check done  == 
+
+== mips_hamming_f32 test ==  
+mips_hamming_f32 finish 
+mips_hamming_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hamming_f32 check done  == 
+
+== mips_hanning_f32 test ==  
+mips_hanning_f32 finish 
+mips_hanning_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hanning_f32 check done  == 
+
+== mips_nuttall3_f32 test ==  
+mips_nuttall3_f32 finish 
+mips_nuttall3_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall3_f32 check done  == 
+
+== mips_nuttall4_f32 test ==  
+mips_nuttall4_f32 finish 
+mips_nuttall4_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall4_f32 check done  == 
+
+== mips_nuttall3a_f32 test ==  
+mips_nuttall3a_f32 finish 
+mips_nuttall3a_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall3a_f32 check done  == 
+
+== mips_nuttall3b_f32 test ==  
+mips_nuttall3b_f32 finish 
+mips_nuttall3b_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall3b_f32 check done  == 
+
+== mips_nuttall4a_f32 test ==  
+mips_nuttall4a_f32 finish 
+mips_nuttall4a_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall4a_f32 check done  == 
+
+== mips_blackman_harris_92db_f32 test ==  
+mips_blackman_harris_92db_f32 finish 
+mips_blackman_harris_92db_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_blackman_harris_92db_f32 check done  == 
+
+== mips_nuttall4b_f32 test ==  
+mips_nuttall4b_f32 finish 
+mips_nuttall4b_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall4b_f32 check done  == 
+
+== mips_nuttall4c_f32 test ==  
+mips_nuttall4c_f32 finish 
+mips_nuttall4c_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall4c_f32 check done  == 
+
+== mips_hft90d_f32 test ==  
+mips_hft90d_f32 finish 
+mips_hft90d_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft90d_f32 check done  == 
+
+== mips_hft95_f32 test ==  
+mips_hft95_f32 finish 
+mips_hft95_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft95_f32 check done  == 
+
+== mips_hft116d_f32 test ==  
+mips_hft116d_f32 finish 
+mips_hft116d_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft116d_f32 check done  == 
+
+== mips_hft144d_f32 test ==  
+mips_hft144d_f32 finish 
+mips_hft144d_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft144d_f32 check done  == 
+
+== mips_hft169d_f32 test ==  
+mips_hft169d_f32 finish 
+mips_hft169d_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft169d_f32 check done  == 
+
+== mips_hft196d_f32 test ==  
+mips_hft196d_f32 finish 
+mips_hft196d_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft196d_f32 check done  == 
+
+== mips_hft223d_f32 test ==  
+mips_hft223d_f32 finish 
+mips_hft223d_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft223d_f32 check done  == 
+
+== mips_hft248d_f32 test ==  
+mips_hft248d_f32 finish 
+mips_hft248d_f32 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft248d_f32 check done  == 
+
+== mips_welch_f64 test ==  
+mips_welch_f64 finish 
+mips_welch_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_welch_f64 check done  == 
+
+== mips_bartlett_f64 test ==  
+mips_bartlett_f64 finish 
+mips_bartlett_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_bartlett_f64 check done  == 
+
+== mips_hamming_f64 test ==  
+mips_hamming_f64 finish 
+mips_hamming_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hamming_f64 check done  == 
+
+== mips_hanning_f64 test ==  
+mips_hanning_f64 finish 
+mips_hanning_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hanning_f64 check done  == 
+
+== mips_nuttall3_f64 test ==  
+mips_nuttall3_f64 finish 
+mips_nuttall3_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall3_f64 check done  == 
+
+== mips_nuttall4_f64 test ==  
+mips_nuttall4_f64 finish 
+mips_nuttall4_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall4_f64 check done  == 
+
+== mips_nuttall3a_f64 test ==  
+mips_nuttall3a_f64 finish 
+mips_nuttall3a_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall3a_f64 check done  == 
+
+== mips_nuttall3b_f64 test ==  
+mips_nuttall3b_f64 finish 
+mips_nuttall3b_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall3b_f64 check done  == 
+
+== mips_nuttall4a_f64 test ==  
+mips_nuttall4a_f64 finish 
+mips_nuttall4a_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall4a_f64 check done  == 
+
+== mips_blackman_harris_92db_f64 test ==  
+mips_blackman_harris_92db_f64 finish 
+mips_blackman_harris_92db_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_blackman_harris_92db_f64 check done  == 
+
+== mips_nuttall4b_f64 test ==  
+mips_nuttall4b_f64 finish 
+mips_nuttall4b_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall4b_f64 check done  == 
+
+== mips_nuttall4c_f64 test ==  
+mips_nuttall4c_f64 finish 
+mips_nuttall4c_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_nuttall4c_f64 check done  == 
+
+== mips_hft90d_f64 test ==  
+mips_hft90d_f64 finish 
+mips_hft90d_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft90d_f64 check done  == 
+
+== mips_hft95_f64 test ==  
+mips_hft95_f64 finish 
+mips_hft95_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft95_f64 check done  == 
+
+== mips_hft116d_f64 test ==  
+mips_hft116d_f64 finish 
+mips_hft116d_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft116d_f64 check done  == 
+
+== mips_hft144d_f64 test ==  
+mips_hft144d_f64 finish 
+mips_hft144d_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft144d_f64 check done  == 
+
+== mips_hft169d_f64 test ==  
+mips_hft169d_f64 finish 
+mips_hft169d_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft169d_f64 check done  == 
+
+== mips_hft196d_f64 test ==  
+mips_hft196d_f64 finish 
+mips_hft196d_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft196d_f64 check done  == 
+
+== mips_hft223d_f64 test ==  
+mips_hft223d_f64 finish 
+mips_hft223d_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft223d_f64 check done  == 
+
+== mips_hft248d_f64 test ==  
+mips_hft248d_f64 finish 
+mips_hft248d_f64 checking 
+
+closeError count = 0, CLOSE Test PASSED! 
+snrError count = 0, SNR Test PASSED! 
+
+== mips_hft248d_f64 check done  == 
+
